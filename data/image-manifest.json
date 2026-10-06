@@ -1,0 +1,2831 @@
+[
+  {
+    "id": 1,
+    "title": "Mây Lang Thang",
+    "type": "venue",
+    "originalFilename": "1791257704345_2224598161968234425_4716115710355835925_35226b7a8d64f2d029b22552668c4f5c.jpg",
+    "file": "sources/001.webp",
+    "src": "sources/001.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "may-lang-thang"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 2,
+    "title": "Vì Yêu Mà Đến Coffee",
+    "type": "venue",
+    "originalFilename": "1791257704430_2224598161968234425_4716115710355835925_43b8ec512e4b4eb5389be4e88c06df59.jpg",
+    "file": "sources/002.webp",
+    "src": "sources/002.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "vi-yeu-ma-den-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 3,
+    "title": "Thanh Ngân Hòa Cảnh",
+    "type": "venue",
+    "originalFilename": "1791257704510_2224598161968234425_4716115710355835925_6a9efd79230dbb2c33792ad2fd8184c1.jpg",
+    "file": "sources/003.webp",
+    "src": "sources/003.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thanh-ngan-hoa-canh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 4,
+    "title": "Bình Minh Ơi",
+    "type": "venue",
+    "originalFilename": "1791257704577_2224598161968234425_4716115710355835925_7c1042eff81fd700daf4764c7243da4c.jpg",
+    "file": "sources/004.webp",
+    "src": "sources/004.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "binh-minh-oi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 5,
+    "title": "Túi Mơ To",
+    "type": "venue",
+    "originalFilename": "1791257704652_2224598161968234425_4716115710355835925_fa48fcc00bb1230626e1952cf8ba33d8.jpg",
+    "file": "sources/005.webp",
+    "src": "sources/005.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tui-mo-to"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 6,
+    "title": "Delight Park",
+    "type": "venue",
+    "originalFilename": "1791257704730_2224598161968234425_4716115710355835925_a40a95b2ff34089ceb2c616cfa8869b6.jpg",
+    "file": "sources/006.webp",
+    "src": "sources/006.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "delight-park"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 7,
+    "title": "Tọa độ chill đêm Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257704816_2224598161968234425_4716115710355835925_c9974a2f1d72a0d24818eec8495285f5.jpg",
+    "file": "sources/007.webp",
+    "src": "sources/007.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 8,
+    "title": "Tiệm Trà Phụng",
+    "type": "venue",
+    "originalFilename": "1791257704897_2224598161968234425_4716115710355835925_b592882a04976fb2c114e7d0702ab460.jpg",
+    "file": "sources/008.webp",
+    "src": "sources/008.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-tra-phung"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 9,
+    "title": "Địa điểm check-in miễn phí",
+    "type": "list",
+    "originalFilename": "1791257704990_2224598161968234425_4716115710355835925_3abf2eed530d8c6ad0d1bc1236923190.jpg",
+    "file": "sources/009.webp",
+    "src": "sources/009.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "doc-persimmon",
+      "doc-nho-hoai",
+      "biet-thu-co-co-giang",
+      "hang-rao-xanh-co",
+      "duong-nguyen-khuyen",
+      "doc-suong-nguyet-anh",
+      "suoi-tia",
+      "dinh-tinh-truong",
+      "cafe-persimmon",
+      "resort-ana-mandara"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 10,
+    "title": "Giá vé tham khảo ở Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257705063_2224598161968234425_4716115710355835925_a4fbbf6d80d6e8ec6972007fc84ba54d.jpg",
+    "file": "sources/010.webp",
+    "src": "sources/010.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 11,
+    "title": "Quán ăn sáng, trưa và tối",
+    "type": "list",
+    "originalFilename": "1791257705145_2224598161968234425_4716115710355835925_d8420750f262f5ca6c7df93503e3960c.jpg",
+    "file": "sources/011.webp",
+    "src": "sources/011.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "mi-quang-co-sau",
+      "banh-can-ba-hai",
+      "banh-mi-xiu-mai-79",
+      "atispho-pho-atiso",
+      "banh-cuon-nong-co-hoa",
+      "com-tam-lao-tru",
+      "bun-cha-a-beo",
+      "ga-nuong-com-lam-nam-anh-phat",
+      "shy-food-and-drink",
+      "banh-beo-bun-mam-nha-ngoi",
+      "banh-uot-long-ga-song-han",
+      "mama-thai",
+      "cari-chaaa",
+      "buffet-rau-robinson",
+      "quan-nhau-thoi-binh",
+      "tiem-nuong-u-nu",
+      "tiem-chao-huynh-van"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 12,
+    "title": "Điểm tham quan có vé",
+    "type": "list",
+    "originalFilename": "1791257705213_2224598161968234425_4716115710355835925_287fac04d0ff8812e402b80659781640.jpg",
+    "file": "sources/012.webp",
+    "src": "sources/012.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "delight-park",
+      "the-forest",
+      "fresh-garden",
+      "nui-langbiang",
+      "vuon-anh-sang",
+      "madame-de-dalat",
+      "ga-da-lat",
+      "fairytale-land",
+      "dinh-bao-dai"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 13,
+    "title": "Cà phê ngắm cảnh",
+    "type": "list",
+    "originalFilename": "1791257705297_2224598161968234425_4716115710355835925_d32416ab2bd766fd6c7793dc8e0b89f0.jpg",
+    "file": "sources/013.webp",
+    "src": "sources/013.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "happy-hill",
+      "gach",
+      "the-wilder-nest",
+      "mountain-chill",
+      "doc-thi",
+      "tach",
+      "chang-vang",
+      "do-do",
+      "newlight-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 14,
+    "title": "Nông trại và điểm vui chơi",
+    "type": "list",
+    "originalFilename": "1791257705370_2224598161968234425_4716115710355835925_85de8583f75bbfae71f3403e490153fc.jpg",
+    "file": "sources/014.webp",
+    "src": "sources/014.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "chika-farm",
+      "puppy-farm",
+      "mongoland",
+      "cao-nguyen-hoa",
+      "zoodoo",
+      "langbiang-land",
+      "wonderland",
+      "thuy-thuan",
+      "thac-datanla"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 15,
+    "title": "Các tiệm cà phê Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257705451_2224598161968234425_4716115710355835925_938eb100370adb6aa64831b6951d712b.jpg",
+    "file": "sources/015.webp",
+    "src": "sources/015.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "lung-chung",
+      "nang-thuy-tinh",
+      "mew-roastery",
+      "miet-miet",
+      "thom",
+      "gio-da-lat-the-coffee",
+      "airdream-cafe",
+      "doi-mot-nguoi",
+      "trong-trai-tra"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 16,
+    "title": "Món ăn nên thử ở Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257705534_2224598161968234425_4716115710355835925_de8ea003305aac7d464823379bac846a.jpg",
+    "file": "sources/016.webp",
+    "src": "sources/016.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-can-chi-7",
+      "mi-quang-co-ba",
+      "khoai-lang-nuong",
+      "nam-nuong",
+      "sua-co-lan",
+      "banh-trang-nuong-di-dinh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 17,
+    "title": "Langbiang Land và Làng Cù Lần",
+    "type": "list",
+    "originalFilename": "1791257705618_2224598161968234425_4716115710355835925_40e4dc3de74daa21bc7433055f307f3a.jpg",
+    "file": "sources/017.webp",
+    "src": "sources/017.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "langbiang-land",
+      "lang-cu-lan"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 18,
+    "title": "Vườn dâu Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257705697_2224598161968234425_4716115710355835925_82004b3367b4f7d787d5209ab2fd7ffb.jpg",
+    "file": "sources/018.webp",
+    "src": "sources/018.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "vuon-dau-lava",
+      "vuon-dau-fresh-berry"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 19,
+    "title": "Địa điểm và trải nghiệm Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257705786_2224598161968234425_4716115710355835925_6da6f74f25835c6bc925406176ddcea6.jpg",
+    "file": "sources/019.webp",
+    "src": "sources/019.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 20,
+    "title": "Địa điểm cắm trại",
+    "type": "list",
+    "originalFilename": "1791257705870_2224598161968234425_4716115710355835925_793aa9d920d34d0c9c606903b092b8fd.jpg",
+    "file": "sources/020.webp",
+    "src": "sources/020.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doi-da-phu",
+      "doi-thien-phuc-duc",
+      "doi-hon-bo",
+      "cay-thong-co-don",
+      "doi-co-hong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 21,
+    "title": "Cầu Đất Farm",
+    "type": "venue",
+    "originalFilename": "1791257705985_2224598161968234425_4716115710355835925_305dc9b4ff168d788af7f3f7d998f2ac.jpg",
+    "file": "sources/021.webp",
+    "src": "sources/021.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "cau-dat-farm"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 22,
+    "title": "Điểm vui chơi Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257706099_2224598161968234425_4716115710355835925_5f8f96ef08fe64100be7e89abdb5e6b4.jpg",
+    "file": "sources/022.webp",
+    "src": "sources/022.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "langbiang-land",
+      "dapa-hill",
+      "thung-lung-tinh-yeu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 23,
+    "title": "Biệt thự cổ Cô Giang",
+    "type": "venue",
+    "originalFilename": "1791257706189_2224598161968234425_4716115710355835925_7e6b0e561f3a04215ac0c37c17cd084d.jpg",
+    "file": "sources/023.webp",
+    "src": "sources/023.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "biet-thu-co-co-giang"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 24,
+    "title": "Pink Valley và Datanla",
+    "type": "list",
+    "originalFilename": "1791257706273_2224598161968234425_4716115710355835925_f624bf736f9c99837e91fa41727ff64b.jpg",
+    "file": "sources/024.webp",
+    "src": "sources/024.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thac-datanla",
+      "pink-valley"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 25,
+    "title": "Dinh Bảo Đại",
+    "type": "venue",
+    "originalFilename": "1791257706360_2224598161968234425_4716115710355835925_1dc39b01a73d9cdd48478eb96f16464f.jpg",
+    "file": "sources/025.webp",
+    "src": "sources/025.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "dinh-bao-dai"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 26,
+    "title": "Hồ Xuân Hương",
+    "type": "venue",
+    "originalFilename": "1791257706459_2224598161968234425_4716115710355835925_a8862d0be237475690ed08115633655a.jpg",
+    "file": "sources/026.webp",
+    "src": "sources/026.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-xuan-huong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 27,
+    "title": "Đường hầm Điêu khắc",
+    "type": "venue",
+    "originalFilename": "1791257706546_2224598161968234425_4716115710355835925_7c31abd2edcbc63715ce4bf73d7b7725.jpg",
+    "file": "sources/027.webp",
+    "src": "sources/027.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "duong-ham-dieu-khac"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 28,
+    "title": "Rừng Thông Núi Voi",
+    "type": "venue",
+    "originalFilename": "1791257706648_2224598161968234425_4716115710355835925_5e0e64abed994cff0b90b875b23c3210.jpg",
+    "file": "sources/028.webp",
+    "src": "sources/028.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "rung-thong-nui-voi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 29,
+    "title": "5 khu vui chơi Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257706721_2224598161968234425_4716115710355835925_dd67a14d7f6d1bada1f21cb83292fa4e.jpg",
+    "file": "sources/029.webp",
+    "src": "sources/029.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 30,
+    "title": "Datanla – các loại vé",
+    "type": "venue",
+    "originalFilename": "1791257706820_2224598161968234425_4716115710355835925_946b3abd130e788d12a232954d8ecc02.jpg",
+    "file": "sources/030.webp",
+    "src": "sources/030.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thac-datanla"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 31,
+    "title": "Thung lũng Tình Yêu",
+    "type": "venue",
+    "originalFilename": "1791257706892_2224598161968234425_4716115710355835925_d92d34bd24fcf043fc66dd03acb030cd.jpg",
+    "file": "sources/031.webp",
+    "src": "sources/031.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thung-lung-tinh-yeu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 32,
+    "title": "Thúy Thuận",
+    "type": "venue",
+    "originalFilename": "1791257706967_2224598161968234425_4716115710355835925_aa5558c915d30b813a91d8a533743807.jpg",
+    "file": "sources/032.webp",
+    "src": "sources/032.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thuy-thuan"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 33,
+    "title": "Rừng Thông Núi Voi",
+    "type": "venue",
+    "originalFilename": "1791257707043_2224598161968234425_4716115710355835925_de2ca3beae7f164e4a52e32366c1f8d3.jpg",
+    "file": "sources/033.webp",
+    "src": "sources/033.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "rung-thong-nui-voi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 34,
+    "title": "Chika Farm",
+    "type": "venue",
+    "originalFilename": "1791257707127_2224598161968234425_4716115710355835925_e86e1270debf118552e7b9557698ea49.jpg",
+    "file": "sources/034.webp",
+    "src": "sources/034.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "chika-farm"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 35,
+    "title": "Bảng vé Datanla",
+    "type": "venue",
+    "originalFilename": "1791257707199_2224598161968234425_4716115710355835925_ae8538311b60ca7c1c4929fcc1626256.jpg",
+    "file": "sources/035.webp",
+    "src": "sources/035.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thac-datanla"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 36,
+    "title": "Đường hầm Điêu khắc",
+    "type": "venue",
+    "originalFilename": "1791257707273_2224598161968234425_4716115710355835925_dda3f6c5bde10d7bf10476f4f2e130b6.jpg",
+    "file": "sources/036.webp",
+    "src": "sources/036.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "duong-ham-dieu-khac"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 37,
+    "title": "Mongo Land",
+    "type": "venue",
+    "originalFilename": "1791257707345_2224598161968234425_4716115710355835925_1cd35a67d6bc2196345bb8ffce0f73bc.jpg",
+    "file": "sources/037.webp",
+    "src": "sources/037.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "mongoland"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 38,
+    "title": "Fairytale Land",
+    "type": "venue",
+    "originalFilename": "1791257707425_2224598161968234425_4716115710355835925_e0a943091856d20eb8e3413d97f536fe.jpg",
+    "file": "sources/038.webp",
+    "src": "sources/038.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "fairytale-land"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 39,
+    "title": "Các khu vui chơi Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257707507_2224598161968234425_4716115710355835925_7bf9c66def1457bc26f923b91db78b49.jpg",
+    "file": "sources/039.webp",
+    "src": "sources/039.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 40,
+    "title": "ZooDoo",
+    "type": "venue",
+    "originalFilename": "1791257707580_2224598161968234425_4716115710355835925_07fdf3f3dda51560b24446d1f98ff2fb.jpg",
+    "file": "sources/040.webp",
+    "src": "sources/040.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "zoodoo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 41,
+    "title": "Cao Nguyên Hoa",
+    "type": "venue",
+    "originalFilename": "1791257707647_2224598161968234425_4716115710355835925_67a74a5bf0415fa49ce4f466a818da88.jpg",
+    "file": "sources/041.webp",
+    "src": "sources/041.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "cao-nguyen-hoa"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 42,
+    "title": "Quán cà phê cho ngày mưa",
+    "type": "list",
+    "originalFilename": "1791257707720_2224598161968234425_4716115710355835925_808aad32f20fb2ab10a1d5e1ef0d13a2.jpg",
+    "file": "sources/042.webp",
+    "src": "sources/042.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "nook",
+      "hom-nao-ca-phe",
+      "thac-may-chill"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 43,
+    "title": "Đồi chè Cầu Đất",
+    "type": "venue",
+    "originalFilename": "1791257707795_2224598161968234425_4716115710355835925_e76292dce7ea5b5932db95c8313dfc11.jpg",
+    "file": "sources/043.webp",
+    "src": "sources/043.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "cau-dat-farm"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 44,
+    "title": "Hồ Tuyền Lâm",
+    "type": "venue",
+    "originalFilename": "1791257707864_2224598161968234425_4716115710355835925_28ec41865a442f3795772f2726975e63.jpg",
+    "file": "sources/044.webp",
+    "src": "sources/044.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-tuyen-lam"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 45,
+    "title": "Suối Tía",
+    "type": "venue",
+    "originalFilename": "1791257707942_2224598161968234425_4716115710355835925_d7298cb80254cb96a4738e73b1c47ccf.jpg",
+    "file": "sources/045.webp",
+    "src": "sources/045.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "suoi-tia"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 46,
+    "title": "Gợi ý lịch trình theo thời tiết",
+    "type": "advice",
+    "originalFilename": "1791257708013_2224598161968234425_4716115710355835925_65f4be222fc61e0a3a46ef447185e077.jpg",
+    "file": "sources/046.webp",
+    "src": "sources/046.webp",
+    "description": "Gợi ý ảnh: ngày mưa ngồi cà phê, khi trời tạnh đi hồ, có thể ghé Cầu Đất và vườn hồng. Đây là ý tưởng lịch trình, không phải dự báo thời tiết hiện tại.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 47,
+    "title": "Mùa hồng Đà Lạt",
+    "type": "venue",
+    "originalFilename": "1791257708087_2224598161968234425_4716115710355835925_37cbdab972f1a6f020eb80ec9e572708.jpg",
+    "file": "sources/047.webp",
+    "src": "sources/047.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "vuon-hong-xuan-truong-tram-hanh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 48,
+    "title": "Đà Lạt – điểm nên ghé",
+    "type": "cover",
+    "originalFilename": "1791257708166_2224598161968234425_4716115710355835925_d5c6eba5860389201e27bd322aea5236.jpg",
+    "file": "sources/048.webp",
+    "src": "sources/048.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 49,
+    "title": "Quán cà phê ngồi ngày mưa",
+    "type": "list",
+    "originalFilename": "1791257708240_2224598161968234425_4716115710355835925_c8382e63f228a6596d8fad1fa17341a5.jpg",
+    "file": "sources/049.webp",
+    "src": "sources/049.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "la-viet-coffee",
+      "still-cafe",
+      "tiem-ca-phe-trung-co-ba"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 50,
+    "title": "Đà Lạt tháng 10",
+    "type": "cover",
+    "originalFilename": "1791257708310_2224598161968234425_4716115710355835925_cfe45c440b1c832b5bbfcf092a847a86.jpg",
+    "file": "sources/050.webp",
+    "src": "sources/050.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 51,
+    "title": "Thời tiết mùa thu Đà Lạt",
+    "type": "advice",
+    "originalFilename": "1791257740419_2224598161968234425_4716115710355835925_606d01ab1cf8b13297d884d1f9fb16cd.jpg",
+    "file": "sources/051.webp",
+    "src": "sources/051.webp",
+    "description": "Thông tin mùa thu/tháng 10 trong ảnh là kinh nghiệm tham khảo; hãy xem dự báo theo giờ mới nhất trước khi di chuyển.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 52,
+    "title": "Cẩm nang đi Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257740523_2224598161968234425_4716115710355835925_bf1b547a0b68014affd0ee53ee5f142e.jpg",
+    "file": "sources/052.webp",
+    "src": "sources/052.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 53,
+    "title": "Mùa hoa dã quỳ",
+    "type": "advice",
+    "originalFilename": "1791257740609_2224598161968234425_4716115710355835925_659db6f7fa969cde45d4b6ba594c134c.jpg",
+    "file": "sources/053.webp",
+    "src": "sources/053.webp",
+    "description": "Ảnh giới thiệu mùa hoa dã quỳ nhưng không xác định điểm có hoa hoặc thời gian nở thực tế.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 54,
+    "title": "Chọn khu vực lưu trú",
+    "type": "advice",
+    "originalFilename": "1791257740688_2224598161968234425_4716115710355835925_0a615baea50e80af21db5759235f33ac.jpg",
+    "file": "sources/054.webp",
+    "src": "sources/054.webp",
+    "description": "Ảnh gợi ý cân nhắc lưu trú gần trung tâm hoặc xa trung tâm tùy lịch trình.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 55,
+    "title": "Chọn phương tiện đi lại",
+    "type": "advice",
+    "originalFilename": "1791257740774_2224598161968234425_4716115710355835925_83fa10804951345cbb46a502a5120bdb.jpg",
+    "file": "sources/055.webp",
+    "src": "sources/055.webp",
+    "description": "Ảnh so sánh lựa chọn xe máy và ô tô; cần cân nhắc thời tiết, đường dốc và kinh nghiệm lái xe.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 56,
+    "title": "Cung đường mùa hồng",
+    "type": "advice",
+    "originalFilename": "1791257740857_2224598161968234425_4716115710355835925_01669e5afeb15ee047904add05ec6786.jpg",
+    "file": "sources/056.webp",
+    "src": "sources/056.webp",
+    "description": "Ảnh gợi ý cung đường Trại Mát – Xuân Trường – Cầu Đất – Trạm Hành vào mùa hồng; các vườn cụ thể cần hỏi trước.",
+    "placeIds": [
+      "cau-dat-farm",
+      "vuon-hong-xuan-truong-tram-hanh",
+      "trai-mat"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 57,
+    "title": "Món ăn giữa trời se lạnh",
+    "type": "list",
+    "originalFilename": "1791257740937_2224598161968234425_4716115710355835925_4138966a169f7eb6f5c1cfce95737740.jpg",
+    "file": "sources/057.webp",
+    "src": "sources/057.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "leguda-buffet-rau",
+      "bina-bina",
+      "tiem-an-da-lat-pho-restaurant"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 58,
+    "title": "Gợi ý săn mây",
+    "type": "advice",
+    "originalFilename": "1791257741050_2224598161968234425_4716115710355835925_930ac796eed69139b288bce22e7daf06.jpg",
+    "file": "sources/058.webp",
+    "src": "sources/058.webp",
+    "description": "Kinh nghiệm săn mây trong ảnh không bảo đảm điều kiện thực tế; kiểm tra thời tiết và khả năng tiếp cận đường trước chuyến đi.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 59,
+    "title": "Gợi ý lịch trình 3 ngày",
+    "type": "advice",
+    "originalFilename": "1791257741127_2224598161968234425_4716115710355835925_c32bbe7c7989119947aa6303768b506f.jpg",
+    "file": "sources/059.webp",
+    "src": "sources/059.webp",
+    "description": "Gợi ý 3 ngày trong ảnh: trung tâm; hướng Trại Mát – Xuân Trường – Cầu Đất; hướng Hồ Tuyền Lâm – Datanla.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "cau-dat-farm",
+      "cho-da-lat"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 60,
+    "title": "Still Cafe",
+    "type": "venue",
+    "originalFilename": "1791257741215_2224598161968234425_4716115710355835925_00e5eb42320940238b0e237237442e68.jpg",
+    "file": "sources/060.webp",
+    "src": "sources/060.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "still-cafe"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 61,
+    "title": "Horizon Coffee",
+    "type": "venue",
+    "originalFilename": "1791257741286_2224598161968234425_4716115710355835925_e91e7a2885b8a31290e1a2a7336bb6e1.jpg",
+    "file": "sources/061.webp",
+    "src": "sources/061.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "horizon-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 62,
+    "title": "Túi Mơ To",
+    "type": "venue",
+    "originalFilename": "1791257741359_2224598161968234425_4716115710355835925_9157abbee648aa3d01c55744d0f122bd.jpg",
+    "file": "sources/062.webp",
+    "src": "sources/062.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tui-mo-to"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 63,
+    "title": "5 quán cà phê Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257741448_2224598161968234425_4716115710355835925_430899b83ef81b320c3cb21c06b576b4.jpg",
+    "file": "sources/063.webp",
+    "src": "sources/063.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tui-mo-to",
+      "lung-chung",
+      "in-the-forest",
+      "still-cafe",
+      "horizon-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 64,
+    "title": "Cà phê Đà Lạt – bài tổng hợp",
+    "type": "cover",
+    "originalFilename": "1791257741527_2224598161968234425_4716115710355835925_80f371f9d71e05995fdb739ace379fc4.jpg",
+    "file": "sources/064.webp",
+    "src": "sources/064.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 65,
+    "title": "In The Forest",
+    "type": "venue",
+    "originalFilename": "1791257741602_2224598161968234425_4716115710355835925_09a690340dc0a246429565992449fc4d.jpg",
+    "file": "sources/065.webp",
+    "src": "sources/065.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "in-the-forest"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 66,
+    "title": "Cà phê Thung Lũng Hồng",
+    "type": "venue",
+    "originalFilename": "1791257741699_2224598161968234425_4716115710355835925_65cd4073a7501977e54440d7d2fed1d9.jpg",
+    "file": "sources/066.webp",
+    "src": "sources/066.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ca-phe-thung-lung-hong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 67,
+    "title": "Cafe Persimmon",
+    "type": "venue",
+    "originalFilename": "1791257741772_2224598161968234425_4716115710355835925_ce4aee4d3bab6dcea21bf4979d4ec667.jpg",
+    "file": "sources/067.webp",
+    "src": "sources/067.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "cafe-persimmon"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 68,
+    "title": "Cà phê và trải nghiệm Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257741852_2224598161968234425_4716115710355835925_340f8e2aa2b557f26bfe4d5b9c7b2f77.jpg",
+    "file": "sources/068.webp",
+    "src": "sources/068.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 69,
+    "title": "Bao Tiền Một Mớ Bình Yên",
+    "type": "venue",
+    "originalFilename": "1791257741964_2224598161968234425_4716115710355835925_4fb24b939c3234ce77a27296380630c2.jpg",
+    "file": "sources/069.webp",
+    "src": "sources/069.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "bao-tien-mot-mo-binh-yen"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 70,
+    "title": "Dốc Thị",
+    "type": "venue",
+    "originalFilename": "1791257742075_2224598161968234425_4716115710355835925_fafb176392581ff20d246d1f1988f3cf.jpg",
+    "file": "sources/070.webp",
+    "src": "sources/070.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doc-thi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 71,
+    "title": "Vườn Hồng Nhà Tom",
+    "type": "venue",
+    "originalFilename": "1791257742157_2224598161968234425_4716115710355835925_62210c48ac1d23cbf505da46c674c53e.jpg",
+    "file": "sources/071.webp",
+    "src": "sources/071.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "vuon-hong-nha-tom"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 72,
+    "title": "Gợi ý du lịch Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257742237_2224598161968234425_4716115710355835925_989664a23756bdf16be2d79d008abbe4.jpg",
+    "file": "sources/072.webp",
+    "src": "sources/072.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 73,
+    "title": "Quán ăn sáng Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257742323_2224598161968234425_4716115710355835925_2520ddd2be1bd3341780540c80b20634.jpg",
+    "file": "sources/073.webp",
+    "src": "sources/073.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "pho-an-da-lat",
+      "banh-can-le",
+      "banh-can-co-lanh",
+      "banh-uot-long-ga-18"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 74,
+    "title": "Xe khách đi Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257742398_2224598161968234425_4716115710355835925_46e28aafde9de875d74460d61ada061f.jpg",
+    "file": "sources/074.webp",
+    "src": "sources/074.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "phuong-trang-futa",
+      "thanh-buoi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 75,
+    "title": "Lưu trú và đi lại Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257742479_2224598161968234425_4716115710355835925_a47b08654ee1c652de8bdbb360062c7c.jpg",
+    "file": "sources/075.webp",
+    "src": "sources/075.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 76,
+    "title": "Homestay Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257742560_2224598161968234425_4716115710355835925_dac2e08724d2c477afe8f655b17a6496.jpg",
+    "file": "sources/076.webp",
+    "src": "sources/076.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "da-lat-mr-happy-homestay",
+      "family-homestay-dalat-casa",
+      "nha-ma-tan-homestay-da-lat",
+      "tui-mo-homestay-da-lat"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 77,
+    "title": "Quán ăn trưa Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257742642_2224598161968234425_4716115710355835925_23635f026707c0a2c653b91b18d85e95.jpg",
+    "file": "sources/077.webp",
+    "src": "sources/077.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "quan-2-oi",
+      "com-hoi-no",
+      "tiem-com-ganh",
+      "lau-ca-tam-hoang-gia"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 78,
+    "title": "Dịch vụ thuê xe máy",
+    "type": "list",
+    "originalFilename": "1791257742713_2224598161968234425_4716115710355835925_a1a173921f729572f1282b7cbbeee0b6.jpg",
+    "file": "sources/078.webp",
+    "src": "sources/078.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "hai-da-lat-thue-xe-may",
+      "go-happy-thue-xe-may",
+      "mr-din-thue-xe-may",
+      "happy-day-travel-thue-xe-may"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 79,
+    "title": "Cà phê Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257742793_2224598161968234425_4716115710355835925_0bbe957e624e3656475c028062b46b23.jpg",
+    "file": "sources/079.webp",
+    "src": "sources/079.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tui-mo-to",
+      "lung-chung",
+      "in-the-forest",
+      "still-cafe",
+      "horizon-coffee",
+      "cheo-veooo",
+      "kong-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 80,
+    "title": "Quán ăn tối Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257742874_2224598161968234425_4716115710355835925_2a29f215b20a61772e6f69e0fe3fc04b.jpg",
+    "file": "sources/080.webp",
+    "src": "sources/080.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "lau-ca-tam-hoang-gia",
+      "lau-ga-la-e-tao-ngo",
+      "quan-go-lau-bo-ba-toa",
+      "lo-ghim-grill-chill"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 81,
+    "title": "Điểm chụp ảnh miễn phí",
+    "type": "advice",
+    "originalFilename": "1791257742957_2224598161968234425_4716115710355835925_ccf9f74989220d5d3ff1dd51db2a5bd4.jpg",
+    "file": "sources/081.webp",
+    "src": "sources/081.webp",
+    "description": "Một số mục trong ảnh có địa chỉ thiếu hoặc khả năng ghép nhầm. Rừng Thông Bản Áng được giữ trong tư liệu nhưng loại khỏi đề xuất ở Đà Lạt. Các giá/vé/phường trong ảnh chưa đối chiếu.",
+    "placeIds": [
+      "ga-da-lat",
+      "doi-thien-phuc-duc",
+      "cay-thong-co-don",
+      "cau-dat-farm",
+      "ho-xuan-huong",
+      "doc-nha-bo",
+      "duong-thong-hai-mo",
+      "rung-thong-ban-ang",
+      "vuon-hoa-cam-tu-cau-duong-ham-dat-set",
+      "hem-29-2"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 82,
+    "title": "Xe khách và chuyến bay",
+    "type": "list",
+    "originalFilename": "1791257743050_2224598161968234425_4716115710355835925_53a01841888e49e147f56fb7256c9614.jpg",
+    "file": "sources/082.webp",
+    "src": "sources/082.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "phuong-trang-futa",
+      "thanh-buoi",
+      "dien-linh",
+      "an-anh-limousine",
+      "ly-nghia-limousine",
+      "vietnam-airlines",
+      "vietjet-air",
+      "bamboo-airways"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 83,
+    "title": "Cẩm nang du lịch Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257743125_2224598161968234425_4716115710355835925_b7d2c6d9e46051309bdf6db25c2dc782.jpg",
+    "file": "sources/083.webp",
+    "src": "sources/083.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 84,
+    "title": "Cà phê giá tham khảo",
+    "type": "list",
+    "originalFilename": "1791257743198_2224598161968234425_4716115710355835925_f7f9db196165f5436418f90ec7c17c09.jpg",
+    "file": "sources/084.webp",
+    "src": "sources/084.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "may-lang-thang",
+      "tui-mo-to",
+      "lung-chung",
+      "doi-mot-nguoi",
+      "horizon-coffee",
+      "chuyen-cua-nang",
+      "thang-3-cafe"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 85,
+    "title": "Quán ăn Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257743325_2224598161968234425_4716115710355835925_4857a09ee89853794839f896e2f0baf5.jpg",
+    "file": "sources/085.webp",
+    "src": "sources/085.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-trang-nuong-di-dinh",
+      "banh-can-le",
+      "lau-ga-la-e-tao-ngo",
+      "quan-go-lau-bo-ba-toa",
+      "banh-uot-long-ga-long",
+      "bun-bo-ba-hoi",
+      "banh-mi-xiu-mai-hoang-dieu",
+      "mi-quang-bep-trang",
+      "com-nieu-nhu-ngoc",
+      "bun-bo-di-huong",
+      "com-ga-xoi-mo-aha",
+      "nuong-ngoi-bbq",
+      "che-hem",
+      "sua-dau-nanh-64-tang-bat-ho"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 86,
+    "title": "Thuê xe – thông tin cần xác minh",
+    "type": "advice",
+    "originalFilename": "1791257743441_2224598161968234425_4716115710355835925_3441fa219141c2c39a42cbcfcdc84aca.jpg",
+    "file": "sources/086.webp",
+    "src": "sources/086.webp",
+    "description": "Ảnh dịch vụ thuê xe có số điện thoại mang dạng minh họa; không nhập số này như liên hệ đã xác minh.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 87,
+    "title": "Quán ăn nên ghé",
+    "type": "list",
+    "originalFilename": "1791257743516_2224598161968234425_4716115710355835925_4c6e05b3c549dca5c07a30f4d29eb520.jpg",
+    "file": "sources/087.webp",
+    "src": "sources/087.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-trang-nuong-di-dinh",
+      "banh-can-le",
+      "lau-ga-la-e-tao-ngo",
+      "quan-go-lau-bo-ba-toa",
+      "banh-uot-long-ga-long",
+      "banh-mi-xiu-mai-hoang-dieu",
+      "mi-quang-bep-trang",
+      "bun-bo-di-huong",
+      "che-hem",
+      "nem-nuong-ba-hung"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 88,
+    "title": "Homestay và giá tham khảo",
+    "type": "list",
+    "originalFilename": "1791257743611_2224598161968234425_4716115710355835925_22d17934d9093b36a969588c0bc1c9f2.jpg",
+    "file": "sources/088.webp",
+    "src": "sources/088.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "le-bleu-homestay",
+      "the-kupid",
+      "d-home-da-lat-2",
+      "la-casa-homestay",
+      "nang-homestay",
+      "pine-hill-homestay",
+      "coi-xay-gio-homestay",
+      "tinh-tam-homestay"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 89,
+    "title": "Quán ăn sáng",
+    "type": "list",
+    "originalFilename": "1791257743692_2224598161968234425_4716115710355835925_7b6d71b26911eb1c1887ae863ad2b6d7.jpg",
+    "file": "sources/089.webp",
+    "src": "sources/089.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-long",
+      "banh-mi-xiu-mai-hoang-dieu",
+      "banh-can-nha-chung",
+      "pho-hieu",
+      "bun-bo-hue-thien-trang",
+      "mi-quang-hoi-an",
+      "banh-canh-xuan-an",
+      "bun-rieu-di-sau"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 90,
+    "title": "Điểm check-in Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257743768_2224598161968234425_4716115710355835925_440b52912392b08e5e7b52040878af20.jpg",
+    "file": "sources/090.webp",
+    "src": "sources/090.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "ga-da-lat",
+      "cau-dat-farm",
+      "ho-xuan-huong",
+      "doc-nha-bo",
+      "quang-truong-lam-vien",
+      "thien-vien-truc-lam",
+      "con-doc-mau-hong",
+      "cung-duong-thong",
+      "nha-tho-con-ga",
+      "vuon-hoa-thanh-pho",
+      "lang-hoa-van-thanh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 91,
+    "title": "Khách sạn, xe, đặc sản và vườn dâu",
+    "type": "list",
+    "originalFilename": "1791257743849_2224598161968234425_4716115710355835925_65b27231c72059a8ea64ef285cfb05ee.jpg",
+    "file": "sources/091.webp",
+    "src": "sources/091.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ttc-hotel-premium-da-lat",
+      "dalat-palace",
+      "terracotta-da-lat",
+      "sandals-flora",
+      "the-collin",
+      "duc-tri-thue-o-to",
+      "anh-khoa-thue-o-to",
+      "dalat-car-rental",
+      "nam-anh-thue-xe-may",
+      "l-angfarm",
+      "sieu-thi-dac-san-67-ba-thang-hai",
+      "dac-san-thien-phu",
+      "dac-san-dung-ha",
+      "vuon-dau-chu-hung",
+      "vuon-dau-co-giang",
+      "vuon-dau-new-zealand",
+      "vuon-dau-nhat-long"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 92,
+    "title": "Quán ăn tối",
+    "type": "list",
+    "originalFilename": "1791257743927_2224598161968234425_4716115710355835925_cf72df78d2731bc74b5aa78e32868bc4.jpg",
+    "file": "sources/092.webp",
+    "src": "sources/092.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "leguda-buffet-rau",
+      "lau-ga-la-e-tao-ngo",
+      "quan-go-lau-bo-ba-toa",
+      "com-nieu-nhu-ngoc",
+      "nuong-ngoi-cu-dat",
+      "lau-ca-tam-viet-nam",
+      "nuong-tay-nguyen",
+      "quan-xua-65",
+      "goc-han-quoc"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 93,
+    "title": "Điểm tham quan và giá vé tham khảo",
+    "type": "list",
+    "originalFilename": "1791257744001_2224598161968234425_4716115710355835925_01dc47550dd8bb7a43027fbf44042c0a.jpg",
+    "file": "sources/093.webp",
+    "src": "sources/093.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ga-da-lat",
+      "fairytale-land",
+      "chika-farm",
+      "puppy-farm",
+      "cau-dat-farm",
+      "duong-ham-dieu-khac",
+      "quang-truong-lam-vien",
+      "thien-vien-truc-lam",
+      "vuon-nhat",
+      "lang-phap"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 94,
+    "title": "Các quán cà phê",
+    "type": "list",
+    "originalFilename": "1791257744093_2224598161968234425_4716115710355835925_f8862823762a7161a3110f0c84023a28.jpg",
+    "file": "sources/094.webp",
+    "src": "sources/094.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "may-lang-thang",
+      "tui-mo-to",
+      "la-viet-coffee",
+      "still-cafe",
+      "horizon-coffee",
+      "cheo-veooo",
+      "an-cafe",
+      "la-viet-coffee-tran-nhan-tong",
+      "khu-vuon-mua-he",
+      "married-beans",
+      "bohem",
+      "two-three"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 95,
+    "title": "Quán ăn sáng",
+    "type": "list",
+    "originalFilename": "1791257744168_2224598161968234425_4716115710355835925_9bd4a7e96fcfedc98bc259a0c4c6be4d.jpg",
+    "file": "sources/095.webp",
+    "src": "sources/095.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-long",
+      "banh-mi-xiu-mai-hoang-dieu",
+      "banh-can-nha-chung",
+      "bun-bo-xuan-an",
+      "pho-thin",
+      "hu-tieu-di-sau",
+      "mi-quang-ech-79",
+      "chao-long-ba-ut",
+      "xoi-ga-number-one",
+      "banh-mi-chao-a-cuong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 96,
+    "title": "Cà phê điểm tâm Hoàng",
+    "type": "venue",
+    "originalFilename": "1791257744256_2224598161968234425_4716115710355835925_a83dc48e9ed01306ffc047903438bfca.jpg",
+    "file": "sources/096.webp",
+    "src": "sources/096.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ca-phe-diem-tam-hoang"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 97,
+    "title": "Bánh mì xíu mại 79",
+    "type": "venue",
+    "originalFilename": "1791257744327_2224598161968234425_4716115710355835925_b518c13a8ac3d0a197dd57292c3aa77d.jpg",
+    "file": "sources/097.webp",
+    "src": "sources/097.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-mi-xiu-mai-79"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 98,
+    "title": "Tiệm mì sủi cảo An Gia",
+    "type": "venue",
+    "originalFilename": "1791257744401_2224598161968234425_4716115710355835925_8f97778a1ef99aa0d50ae40dec555093.jpg",
+    "file": "sources/098.webp",
+    "src": "sources/098.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-mi-sui-cao-an-gia"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 99,
+    "title": "Lẩu gà lá é 3/4",
+    "type": "venue",
+    "originalFilename": "1791257744478_2224598161968234425_4716115710355835925_daf682571c389c1c1bf1fae2f2c4af78.jpg",
+    "file": "sources/099.webp",
+    "src": "sources/099.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "lau-ga-la-e-tao-ngo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 100,
+    "title": "Bánh Kimi",
+    "type": "venue",
+    "originalFilename": "1791257744564_2224598161968234425_4716115710355835925_842ae485859c12b10a3613225a7bad79.jpg",
+    "file": "sources/100.webp",
+    "src": "sources/100.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-bong-lan-trung-muoi-kimi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 101,
+    "title": "Xôi Xéo Cô Ba",
+    "type": "venue",
+    "originalFilename": "1791257770068_2224598161968234425_4716115710355835925_6dbc6b82dea46722d6c7c94f449a1ca1.jpg",
+    "file": "sources/101.webp",
+    "src": "sources/101.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "xoi-xeo-co-ba"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 102,
+    "title": "Quán ăn tối",
+    "type": "list",
+    "originalFilename": "1791257770156_2224598161968234425_4716115710355835925_91a266cfa8766f77ece3d0203f400403.jpg",
+    "file": "sources/102.webp",
+    "src": "sources/102.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-chao-huynh-van",
+      "tram-nang",
+      "nha-hang-tui-mo-to",
+      "tiem-nuong-mau-vang",
+      "tui-nuong-lavender",
+      "hot-beer-garden"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 103,
+    "title": "Bánh Su Kem Bà Nga",
+    "type": "venue",
+    "originalFilename": "1791257770314_2224598161968234425_4716115710355835925_96061322dbb816ff48c59b01e11e0693.jpg",
+    "file": "sources/103.webp",
+    "src": "sources/103.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-su-kem-ba-nga"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 104,
+    "title": "Tiệm nướng Mùa Thu",
+    "type": "venue",
+    "originalFilename": "1791257770418_2224598161968234425_4716115710355835925_acab84c0cda8a5a8f8817dc6cd6369f2.jpg",
+    "file": "sources/104.webp",
+    "src": "sources/104.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-nuong-mua-thu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 105,
+    "title": "Quán ăn vặt",
+    "type": "list",
+    "originalFilename": "1791257770513_2224598161968234425_4716115710355835925_a792ec29543ce40b54d53a9d6b9a5e3c.jpg",
+    "file": "sources/105.webp",
+    "src": "sources/105.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "laboong",
+      "kem-bo-nari",
+      "tiem-banh-trang-hoang-tu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 106,
+    "title": "Bánh Kimi – thông tin cơ sở",
+    "type": "venue",
+    "originalFilename": "1791257770602_2224598161968234425_4716115710355835925_563976930efa8f66b7759451299664e7.jpg",
+    "file": "sources/106.webp",
+    "src": "sources/106.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-bong-lan-trung-muoi-kimi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 107,
+    "title": "Yaourt 71",
+    "type": "venue",
+    "originalFilename": "1791257770676_2224598161968234425_4716115710355835925_4f24c9f7cb5a62fa4b5e370d2354dbba.jpg",
+    "file": "sources/107.webp",
+    "src": "sources/107.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "yaourt-71"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 108,
+    "title": "Sữa Dung Béo",
+    "type": "venue",
+    "originalFilename": "1791257770757_2224598161968234425_4716115710355835925_1485be7193bc345e09915cf6f85a90cc.jpg",
+    "file": "sources/108.webp",
+    "src": "sources/108.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-dau-nanh-dung-beo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 109,
+    "title": "Bánh Su Kem Bà Nga",
+    "type": "venue",
+    "originalFilename": "1791257770829_2224598161968234425_4716115710355835925_ed7c7bb5ce78765a337c4250def2be5b.jpg",
+    "file": "sources/109.webp",
+    "src": "sources/109.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-su-kem-ba-nga"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 110,
+    "title": "Bánh tráng nướng Dì Đinh",
+    "type": "venue",
+    "originalFilename": "1791257770909_2224598161968234425_4716115710355835925_8712c86ed495a3ba733355d33b7e96cd.jpg",
+    "file": "sources/110.webp",
+    "src": "sources/110.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-trang-nuong-di-dinh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 111,
+    "title": "Cà phê thư giãn",
+    "type": "list",
+    "originalFilename": "1791257771004_2224598161968234425_4716115710355835925_f50c94cbaa7bcc4842aac478effb98d9.jpg",
+    "file": "sources/111.webp",
+    "src": "sources/111.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "nook",
+      "cheo-veooo",
+      "hidden-land",
+      "quyen-coffee",
+      "nha-nhan",
+      "ohmi-cafe",
+      "hai-nguoi",
+      "duong-coffee",
+      "ban-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 112,
+    "title": "Quán ăn tối",
+    "type": "list",
+    "originalFilename": "1791257771075_2224598161968234425_4716115710355835925_de9a89a5818d7fdd4ac44a9b7b807997.jpg",
+    "file": "sources/112.webp",
+    "src": "sources/112.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tram-nang",
+      "lau-ghe-kim-chi",
+      "lau-ga-la-e-64-phan-chu-trinh",
+      "beo-khoi",
+      "lau-bo-hanh",
+      "say-xua",
+      "mo-te",
+      "fujiya-sushi",
+      "fungi-chingu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 113,
+    "title": "Quán ăn trưa",
+    "type": "list",
+    "originalFilename": "1791257771150_2224598161968234425_4716115710355835925_1904e8449b2a1da65ce740a78f93fcb9.jpg",
+    "file": "sources/113.webp",
+    "src": "sources/113.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "com-hoi-no",
+      "suon-cay-khong-lo",
+      "ga-nuong-om-xoi",
+      "khap-bun-kha",
+      "nem-nuong-tan-long",
+      "quan-com-linh-da-lat",
+      "banh-canh-cam-do",
+      "ut-hien",
+      "com-tam-co-thu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 114,
+    "title": "Cà phê ngắm cảnh",
+    "type": "list",
+    "originalFilename": "1791257771231_2224598161968234425_4716115710355835925_6678f21251999d785c8a00103e842f89.jpg",
+    "file": "sources/114.webp",
+    "src": "sources/114.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "happy-hill",
+      "the-wilder-nest",
+      "chang-vang",
+      "tiem-ca-phe-tay-ho",
+      "jiu-coffee",
+      "euro-garden",
+      "tram-ky-uc",
+      "hoang-hon-chieu",
+      "reo-coffee"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 115,
+    "title": "Quán ăn sáng",
+    "type": "list",
+    "originalFilename": "1791257771308_2224598161968234425_4716115710355835925_dcd7bc894c869c1826d16a8ada1fdaaf.jpg",
+    "file": "sources/115.webp",
+    "src": "sources/115.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-mi-xiu-mai-79",
+      "banh-can-le",
+      "mi-quang-hoi-an",
+      "pho-ga-kim-anh",
+      "bun-bo-co-thuy",
+      "bun-thai-eng-quan",
+      "banh-cuon-ong-si",
+      "banh-uot-kqh-phan-dinh-phung",
+      "xoi-kep-banh-tieu-khu-hoa-binh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 116,
+    "title": "Đồi Ngô Quyền",
+    "type": "venue",
+    "originalFilename": "1791257771390_2224598161968234425_4716115710355835925_6553962958c3dad029084f814f2e8ce0.jpg",
+    "file": "sources/116.webp",
+    "src": "sources/116.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doi-ngo-quyen"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 117,
+    "title": "Đồi chè Cầu Đất",
+    "type": "venue",
+    "originalFilename": "1791257771470_2224598161968234425_4716115710355835925_0b86777a83b7b0665d59e9afe0874e10.jpg",
+    "file": "sources/117.webp",
+    "src": "sources/117.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "cau-dat-farm"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 118,
+    "title": "Đồi Măng Lin",
+    "type": "venue",
+    "originalFilename": "1791257771556_2224598161968234425_4716115710355835925_4d0730ab3305476f2514cd4f02495e26.jpg",
+    "file": "sources/118.webp",
+    "src": "sources/118.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doi-mang-lin"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 119,
+    "title": "Đồi Hòn Bồ",
+    "type": "venue",
+    "originalFilename": "1791257771624_2224598161968234425_4716115710355835925_9f959ded67c403ff170ab8742c3134bb.jpg",
+    "file": "sources/119.webp",
+    "src": "sources/119.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doi-hon-bo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 120,
+    "title": "Đồi Đa Phú",
+    "type": "venue",
+    "originalFilename": "1791257771719_2224598161968234425_4716115710355835925_dcb72e0f5dc640e1bc7de4b371290bf2.jpg",
+    "file": "sources/120.webp",
+    "src": "sources/120.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doi-da-phu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 121,
+    "title": "Đồi cỏ hồng",
+    "type": "venue",
+    "originalFilename": "1791257771804_2224598161968234425_4716115710355835925_647b761782cf2233826ee7703f8b3414.jpg",
+    "file": "sources/121.webp",
+    "src": "sources/121.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doi-co-hong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 122,
+    "title": "Điểm săn mây và chụp ảnh",
+    "type": "cover",
+    "originalFilename": "1791257771932_2224598161968234425_4716115710355835925_a9ec7bff3c80e9cf540a62cde734e032.jpg",
+    "file": "sources/122.webp",
+    "src": "sources/122.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 123,
+    "title": "Quán cà phê thư giãn",
+    "type": "list",
+    "originalFilename": "1791257772040_2224598161968234425_4716115710355835925_4ad72faf479e92b5f74da7bed02705f6.jpg",
+    "file": "sources/123.webp",
+    "src": "sources/123.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "nook",
+      "cheo-veooo",
+      "hidden-land",
+      "little-december",
+      "gap-gap"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 124,
+    "title": "Happy Hill",
+    "type": "venue",
+    "originalFilename": "1791257803366_2224598161968234425_4716115710355835925_6bd4185e5585d1ac7ba0896eff99fb09.jpg",
+    "file": "sources/124.webp",
+    "src": "sources/124.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "happy-hill"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 125,
+    "title": "Bình Minh Ơi",
+    "type": "venue",
+    "originalFilename": "1791257803460_2224598161968234425_4716115710355835925_47f2cf4c523b2d30a9c60c8774eca229.jpg",
+    "file": "sources/125.webp",
+    "src": "sources/125.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "binh-minh-oi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 126,
+    "title": "Dốc Thị",
+    "type": "venue",
+    "originalFilename": "1791257803552_2224598161968234425_4716115710355835925_6dae5b35c8cf423833c60825e38ccc4c.jpg",
+    "file": "sources/126.webp",
+    "src": "sources/126.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "doc-thi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 127,
+    "title": "Euro Garden",
+    "type": "venue",
+    "originalFilename": "1791257803635_2224598161968234425_4716115710355835925_0eb7c0f2b5932b815fcf41859f324c48.jpg",
+    "file": "sources/127.webp",
+    "src": "sources/127.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "euro-garden"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 128,
+    "title": "The Wilder Nest",
+    "type": "venue",
+    "originalFilename": "1791257803804_2224598161968234425_4716115710355835925_e5785098ff922ac7cb565f89cfbe8c61.jpg",
+    "file": "sources/128.webp",
+    "src": "sources/128.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "the-wilder-nest"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 129,
+    "title": "Địa điểm check-in hot hit",
+    "type": "list",
+    "originalFilename": "1791257803882_2224598161968234425_4716115710355835925_b8043cdf99c4c16b4f9d258965012ade.jpg",
+    "file": "sources/129.webp",
+    "src": "sources/129.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tui-mo-to",
+      "happy-hill",
+      "doc-thi",
+      "tram-ky-uc",
+      "mien-du-muc",
+      "di-cung-mua",
+      "suoi-binh-yen",
+      "ngay-thanh-thoi",
+      "chuyen-cua-mo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 130,
+    "title": "Địa điểm chụp hình miễn phí",
+    "type": "list",
+    "originalFilename": "1791257804010_2224598161968234425_4716115710355835925_a50d9d2a4c4c8fe0588d4a7a3468fc92.jpg",
+    "file": "sources/130.webp",
+    "src": "sources/130.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "biet-thu-co-co-giang",
+      "duong-nguyen-khuyen",
+      "doi-da-phu",
+      "ho-xuan-huong",
+      "doi-mang-lin",
+      "doc-dong-da",
+      "doc-hung-vuong",
+      "duong-han-thuyen"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 131,
+    "title": "Tổng hợp Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257804108_2224598161968234425_4716115710355835925_6eaac79a05ae38cfd1f95d73c71498bd.jpg",
+    "file": "sources/131.webp",
+    "src": "sources/131.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 132,
+    "title": "Quán cơm nhà",
+    "type": "list",
+    "originalFilename": "1791257804213_2224598161968234425_4716115710355835925_db7edc0a664a63a9dfd0e4264eb40747.jpg",
+    "file": "sources/132.webp",
+    "src": "sources/132.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-com-ganh",
+      "quan-com-linh-da-lat",
+      "mot-doi-dua",
+      "la-bua",
+      "com-nieu-3-me-con",
+      "tiem-com-bep-cui",
+      "tiem-an-rom",
+      "mot-dieu-uoc",
+      "mot-bua-com"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 133,
+    "title": "Quán ăn vặt",
+    "type": "list",
+    "originalFilename": "1791257804292_2224598161968234425_4716115710355835925_3118bb49f99c0b908e122d8e0c84b8f2.jpg",
+    "file": "sources/133.webp",
+    "src": "sources/133.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-bong-lan-trung-muoi-kimi",
+      "banh-su-kem-ba-nga",
+      "sua-dau-nanh-dung-beo",
+      "xap-xap-co-nam",
+      "an-vat-kun-kun",
+      "xien-nuong-chan-ga-nuong-doc-nha-bo",
+      "kem-bo-phung",
+      "tiem-banh-sweetheart",
+      "banh-trang-nuong-co-hiep"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 134,
+    "title": "Địa điểm ăn ngon",
+    "type": "list",
+    "originalFilename": "1791257804373_2224598161968234425_4716115710355835925_b7adfbca14b777f3b9d2555a42218dca.jpg",
+    "file": "sources/134.webp",
+    "src": "sources/134.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "nam-nuong",
+      "fungi-chingu",
+      "nem-nuong-tan-long",
+      "tiem-nuong-trong-rung",
+      "tiem-mi-meraki",
+      "lau-bo-phan-rang",
+      "tiem-bo-wi-steak",
+      "lau-ga-la-e-sieu-hem",
+      "tiem-nuong-tram-ky-uc"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 135,
+    "title": "Cafe xinh iu",
+    "type": "list",
+    "originalFilename": "1791257804443_2224598161968234425_4716115710355835925_bf852e422173282db1032abf10cfc5ab.jpg",
+    "file": "sources/135.webp",
+    "src": "sources/135.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "binh-minh-oi",
+      "tui-mo-to",
+      "doi-mot-nguoi",
+      "tiem-ca-phe-tay-ho",
+      "linh-lam",
+      "gach-coffee-suong-nguyet-anh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 136,
+    "title": "Cafe xinh iu – ảnh chụp màn hình",
+    "type": "list",
+    "originalFilename": "1791257804514_2224598161968234425_4716115710355835925_3b0bdbfea1312e20c124af260f07b418.jpg",
+    "file": "sources/136.webp",
+    "src": "sources/136.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "binh-minh-oi",
+      "tui-mo-to",
+      "doi-mot-nguoi",
+      "tiem-ca-phe-tay-ho",
+      "linh-lam",
+      "gach-coffee-suong-nguyet-anh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 137,
+    "title": "Điểm vui chơi",
+    "type": "list",
+    "originalFilename": "1791257804597_2224598161968234425_4716115710355835925_81690ad5ae4f304a6a32a1551bcaf749.jpg",
+    "file": "sources/137.webp",
+    "src": "sources/137.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "nui-langbiang",
+      "puppy-farm",
+      "mongoland",
+      "cao-nguyen-hoa",
+      "thon-13",
+      "hanna-land"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 138,
+    "title": "Điểm vui chơi – ảnh chụp màn hình",
+    "type": "list",
+    "originalFilename": "1791257804676_2224598161968234425_4716115710355835925_080d1ff828d8bc6202e88b393df01fd1.jpg",
+    "file": "sources/138.webp",
+    "src": "sources/138.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "nui-langbiang",
+      "puppy-farm",
+      "mongoland",
+      "cao-nguyen-hoa",
+      "thon-13",
+      "hanna-land"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 139,
+    "title": "Điểm check-in miễn phí",
+    "type": "list",
+    "originalFilename": "1791257804803_2224598161968234425_4716115710355835925_f6c419b175351d8cb0f94c2ec3db48e4.jpg",
+    "file": "sources/139.webp",
+    "src": "sources/139.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "biet-thu-co-co-giang",
+      "doc-suong-nguyet-anh",
+      "dinh-tinh-truong",
+      "doi-da-phu",
+      "chung-vien-minh-hoa"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 140,
+    "title": "Điểm check-in miễn phí – ảnh chụp màn hình",
+    "type": "list",
+    "originalFilename": "1791257804874_2224598161968234425_4716115710355835925_6ce6972c5725db71082f46a96a218226.jpg",
+    "file": "sources/140.webp",
+    "src": "sources/140.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "biet-thu-co-co-giang",
+      "doc-suong-nguyet-anh",
+      "dinh-tinh-truong",
+      "doi-da-phu",
+      "chung-vien-minh-hoa"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 141,
+    "title": "Quán ăn tối",
+    "type": "list",
+    "originalFilename": "1791257804967_2224598161968234425_4716115710355835925_11386e436e371f31a0aad6281295a36b.jpg",
+    "file": "sources/141.webp",
+    "src": "sources/141.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-chao-huynh-van",
+      "nha-hang-tui-mo-to",
+      "lau-bo-ba-toa-19-9",
+      "tiem-nuong-tram-dung-chill",
+      "mi-nam-shiitake",
+      "mi-suon-xa-xiu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 142,
+    "title": "Quán ăn tối – ảnh chụp màn hình",
+    "type": "list",
+    "originalFilename": "1791257805053_2224598161968234425_4716115710355835925_396d034194c7aee70534939cf9f3e146.jpg",
+    "file": "sources/142.webp",
+    "src": "sources/142.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-chao-huynh-van",
+      "nha-hang-tui-mo-to",
+      "lau-bo-ba-toa-19-9",
+      "tiem-nuong-tram-dung-chill",
+      "mi-nam-shiitake",
+      "mi-suon-xa-xiu"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 143,
+    "title": "Quán ăn trưa",
+    "type": "list",
+    "originalFilename": "1791257805136_2224598161968234425_4716115710355835925_350b7bff1772eab112cac25ff5850d4c.jpg",
+    "file": "sources/143.webp",
+    "src": "sources/143.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "com-tam-lao-tru",
+      "banh-beo-bun-mam-nha-ngoi",
+      "lau-ga-la-e-tao-ngo",
+      "tiem-nuong-mau-vang",
+      "mot-doi-dua",
+      "tiem-nuong-trong-rung"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 144,
+    "title": "Quán ăn trưa – ảnh chụp màn hình",
+    "type": "list",
+    "originalFilename": "1791257805217_2224598161968234425_4716115710355835925_e70226c2f0a6d3749f81e41db764f39c.jpg",
+    "file": "sources/144.webp",
+    "src": "sources/144.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "com-tam-lao-tru",
+      "banh-beo-bun-mam-nha-ngoi",
+      "lau-ga-la-e-tao-ngo",
+      "tiem-nuong-mau-vang",
+      "mot-doi-dua",
+      "tiem-nuong-trong-rung"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 145,
+    "title": "Quán ăn sáng",
+    "type": "list",
+    "originalFilename": "1791257805317_2224598161968234425_4716115710355835925_a99e27dd362f0779e6d541fb986c3c59.jpg",
+    "file": "sources/145.webp",
+    "src": "sources/145.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-mi-xiu-mai-79",
+      "banh-cuon-nong-co-hoa",
+      "banh-can-le",
+      "xoi-xeo-co-ba",
+      "bun-bo-tho-da",
+      "tiem-nui-hup-hup"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 146,
+    "title": "Quán ăn sáng – ảnh chụp màn hình",
+    "type": "list",
+    "originalFilename": "1791257805483_2224598161968234425_4716115710355835925_623045ba16cb6fe71d908c234fd778ff.jpg",
+    "file": "sources/146.webp",
+    "src": "sources/146.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-mi-xiu-mai-79",
+      "banh-cuon-nong-co-hoa",
+      "banh-can-le",
+      "xoi-xeo-co-ba",
+      "bun-bo-tho-da",
+      "tiem-nui-hup-hup"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 147,
+    "title": "Quán nướng có view",
+    "type": "list",
+    "originalFilename": "1791257805574_2224598161968234425_4716115710355835925_90ac6815baefa30c519b0d0c4ee96eeb.jpg",
+    "file": "sources/147.webp",
+    "src": "sources/147.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tram-nang",
+      "tiem-nuong-mau-vang",
+      "tiem-nuong-trong-rung",
+      "tiem-nuong-tram-dung-chill",
+      "tiem-nuong-xom-leo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 148,
+    "title": "Sữa Gạo Quán",
+    "type": "venue",
+    "originalFilename": "1791257805666_2224598161968234425_4716115710355835925_260a9e300549b37eca1daa472929817d.jpg",
+    "file": "sources/148.webp",
+    "src": "sources/148.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-gao-quan"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 149,
+    "title": "Sữa đậu nành Cô Nguyệt",
+    "type": "venue",
+    "originalFilename": "1791257805744_2224598161968234425_4716115710355835925_c71feaadc78a5b1a38c028ba48268579.jpg",
+    "file": "sources/149.webp",
+    "src": "sources/149.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-dau-nanh-co-nguyet"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 150,
+    "title": "Các quán sữa Đà Lạt",
+    "type": "cover",
+    "originalFilename": "1791257805865_2224598161968234425_4716115710355835925_f554ce602a4728f723bb77febe33ddbb.jpg",
+    "file": "sources/150.webp",
+    "src": "sources/150.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 151,
+    "title": "Quán Hoa Sữa",
+    "type": "venue",
+    "originalFilename": "1791257805965_2224598161968234425_4716115710355835925_8a21131d55ef90161bc539ea940e74a2.jpg",
+    "file": "sources/151.webp",
+    "src": "sources/151.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "quan-hoa-sua"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 152,
+    "title": "Sữa Kem Brazil",
+    "type": "venue",
+    "originalFilename": "1791257806047_2224598161968234425_4716115710355835925_cb72d872b9b08b2e086cb466f080d3a1.jpg",
+    "file": "sources/152.webp",
+    "src": "sources/152.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-kem-brazil"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 153,
+    "title": "Hòa Sữa cơ sở 1",
+    "type": "venue",
+    "originalFilename": "1791257806125_2224598161968234425_4716115710355835925_ef46afb6efd5e94fa20b198998f01baf.jpg",
+    "file": "sources/153.webp",
+    "src": "sources/153.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "hoa-sua-co-so-1"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 154,
+    "title": "Sữa Dung Béo",
+    "type": "venue",
+    "originalFilename": "1791257806234_2224598161968234425_4716115710355835925_388e77aa2e5a1725ed06cfab29129c50.jpg",
+    "file": "sources/154.webp",
+    "src": "sources/154.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-dau-nanh-dung-beo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 155,
+    "title": "Sữa Cô Lan",
+    "type": "venue",
+    "originalFilename": "1791257806336_2224598161968234425_4716115710355835925_fc0c73aaca98cd5b04c94867b63d7263.jpg",
+    "file": "sources/155.webp",
+    "src": "sources/155.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-co-lan"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 156,
+    "title": "Hạnh Sữa ngã 3 Việt Anh",
+    "type": "venue",
+    "originalFilename": "1791257806411_2224598161968234425_4716115710355835925_d0c6cfa014028da3d53b7cb49b559699.jpg",
+    "file": "sources/156.webp",
+    "src": "sources/156.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "hanh-sua-nga-3-viet-anh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 157,
+    "title": "5 quán chè Đà Lạt",
+    "type": "list",
+    "originalFilename": "1791257806493_2224598161968234425_4716115710355835925_83d570bd35be1013687b06927142b8cf.jpg",
+    "file": "sources/157.webp",
+    "src": "sources/157.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "che-he",
+      "che-thai-ba-trieu",
+      "che-nhu-y",
+      "che-cung-dinh-kem-bo",
+      "kem-bo-che-huyen"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 158,
+    "title": "Quán ăn nên ghé",
+    "type": "list",
+    "originalFilename": "1791257806569_2224598161968234425_4716115710355835925_8d2ca2681ffc7bf421ed8d30307e5d61.jpg",
+    "file": "sources/158.webp",
+    "src": "sources/158.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-trang-nuong-di-dinh",
+      "banh-uot-long-ga-long",
+      "sua-dau-nanh-64-tang-bat-ho",
+      "banh-can-nha-chung",
+      "tiem-nuong-mau-vang",
+      "bun-bo-ba-toa",
+      "lau-ga-la-e-tao-ngo-hai-ba-trung",
+      "mi-quang-shi",
+      "kem-bo-thanh-thao"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 159,
+    "title": "Quán bánh tráng nướng",
+    "type": "list",
+    "originalFilename": "1791257806646_2224598161968234425_4716115710355835925_aa2f99407ade1eaa157300492435731b.jpg",
+    "file": "sources/159.webp",
+    "src": "sources/159.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-trang-nuong-di-dinh",
+      "banh-trang-nuong-suong-suong",
+      "banh-trang-nuong-co-mai-nha-chung",
+      "banh-trang-nuong-co-ly",
+      "banh-trang-nuong-co-huong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 160,
+    "title": "10 quán bánh căn",
+    "type": "list",
+    "originalFilename": "1791257806749_2224598161968234425_4716115710355835925_8441bbe3e26a52a55a97badd14226ad1.jpg",
+    "file": "sources/160.webp",
+    "src": "sources/160.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-can-le",
+      "banh-can-nha-chung",
+      "banh-can-cay-bo",
+      "banh-can-co-huong",
+      "banh-can-ngoc",
+      "banh-can-co-chin",
+      "banh-can-doc-ga",
+      "banh-can-truyen-thong",
+      "banh-can-ut-cung",
+      "banh-can-pe-to-vo"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 161,
+    "title": "Bánh ướt lòng gà – bài tổng hợp",
+    "type": "cover",
+    "originalFilename": "1791257806882_2224598161968234425_4716115710355835925_6e52dc9f93b7fe543416d946a983017d.jpg",
+    "file": "sources/161.webp",
+    "src": "sources/161.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 162,
+    "title": "Bánh ướt lòng gà Hà Phương",
+    "type": "venue",
+    "originalFilename": "1791257807046_2224598161968234425_4716115710355835925_07c18c95118fe07b4637c4400a53d8ff.jpg",
+    "file": "sources/162.webp",
+    "src": "sources/162.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-ha-phuong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 163,
+    "title": "Bánh ướt lòng gà Thu Phương",
+    "type": "venue",
+    "originalFilename": "1791257807174_2224598161968234425_4716115710355835925_c72c79a69deb9f9f0a92e53e36546ec7.jpg",
+    "file": "sources/163.webp",
+    "src": "sources/163.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-thu-phuong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 164,
+    "title": "Liên Bánh ướt lòng gà",
+    "type": "venue",
+    "originalFilename": "1791257807271_2224598161968234425_4716115710355835925_aab546333c5ebc22690ad99d0ae0e030.jpg",
+    "file": "sources/164.webp",
+    "src": "sources/164.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "lien-banh-uot-long-ga"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 165,
+    "title": "Bánh ướt lòng gà Góc Phố",
+    "type": "venue",
+    "originalFilename": "1791257807428_2224598161968234425_4716115710355835925_39278004492f04273d257bab5efdd615.jpg",
+    "file": "sources/165.webp",
+    "src": "sources/165.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-goc-pho-da-lat"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 166,
+    "title": "Bánh ướt lòng gà Thảo",
+    "type": "venue",
+    "originalFilename": "1791257807510_2224598161968234425_4716115710355835925_42aa8adad2d06cba155691c94d1c98cf.jpg",
+    "file": "sources/166.webp",
+    "src": "sources/166.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-thao"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 167,
+    "title": "Bánh ướt lòng gà Mặt Đường",
+    "type": "venue",
+    "originalFilename": "1791257807602_2224598161968234425_4716115710355835925_69fd535ab8a5e974c3a799a3fc5f07a4.jpg",
+    "file": "sources/167.webp",
+    "src": "sources/167.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-uot-long-ga-mat-duong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 168,
+    "title": "Quán ăn trưa – cơm",
+    "type": "list",
+    "originalFilename": "1791257807706_2224598161968234425_4716115710355835925_fe04ec7a96fc080aa5dd94fd0d94193f.jpg",
+    "file": "sources/168.webp",
+    "src": "sources/168.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "com-tam-lao-tru",
+      "quan-com-linh-da-lat",
+      "com-nieu-3-me-con",
+      "com-nieu-hong-son-2"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 169,
+    "title": "Quán ăn sáng – món nước",
+    "type": "list",
+    "originalFilename": "1791257807811_2224598161968234425_4716115710355835925_129117c3283f8ad40df5d179e01395dd.jpg",
+    "file": "sources/169.webp",
+    "src": "sources/169.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "mi-quang-co-sau",
+      "atispho-pho-atiso",
+      "pho-126",
+      "hu-tieu-muc-quan-ong-diem"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 170,
+    "title": "Quán ăn ngon từ A–Z",
+    "type": "cover",
+    "originalFilename": "1791257807893_2224598161968234425_4716115710355835925_f791c1a0819ef02d5febab369032cdb0.jpg",
+    "file": "sources/170.webp",
+    "src": "sources/170.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 171,
+    "title": "Quán ăn sáng – món khô",
+    "type": "list",
+    "originalFilename": "1791257808030_2224598161968234425_4716115710355835925_ddc7a1730d612c90e621e1d01e943072.jpg",
+    "file": "sources/171.webp",
+    "src": "sources/171.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-mi-xiu-mai-79",
+      "banh-can-chi-7",
+      "xoi-xeo-co-ba",
+      "pho-ga-kim-anh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 172,
+    "title": "Quán ăn trưa – các món khác",
+    "type": "list",
+    "originalFilename": "1791257808173_2224598161968234425_4716115710355835925_808dace1a797c340cf02ea0c6060d9ea.jpg",
+    "file": "sources/172.webp",
+    "src": "sources/172.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "banh-beo-bun-mam-nha-ngoi",
+      "nem-nuong-tan-long",
+      "bo-bi-cuon",
+      "bun-bo-boc-khoi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 173,
+    "title": "Quán ăn tối – thư giãn",
+    "type": "list",
+    "originalFilename": "1791257808278_2224598161968234425_4716115710355835925_3b19a1510f816083777b10fe6fed74d3.jpg",
+    "file": "sources/173.webp",
+    "src": "sources/173.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tram-nang",
+      "nha-hang-tui-mo-to",
+      "tiem-nuong-mau-vang",
+      "tui-nuong-lavender"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 174,
+    "title": "Tiệm nướng Khói Thông",
+    "type": "venue",
+    "originalFilename": "1791257844935_2224598161968234425_4716115710355835925_c1e8b1a1f39f9b288a2a60edaf035b0d.jpg",
+    "file": "sources/174.webp",
+    "src": "sources/174.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-nuong-khoi-thong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 175,
+    "title": "Cà phê Mây",
+    "type": "venue",
+    "originalFilename": "1791257845029_2224598161968234425_4716115710355835925_d594dc0259139b0a0f866ec094baa67f.jpg",
+    "file": "sources/175.webp",
+    "src": "sources/175.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ca-phe-may"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 176,
+    "title": "Top địa điểm nên ghé",
+    "type": "cover",
+    "originalFilename": "1791257845144_2224598161968234425_4716115710355835925_d1b33a7395dfa89c702298c942ecb839.jpg",
+    "file": "sources/176.webp",
+    "src": "sources/176.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 177,
+    "title": "Lẩu Nhớ",
+    "type": "venue",
+    "originalFilename": "1791257845272_2224598161968234425_4716115710355835925_9677222c6bf6804ed249d1e7b8659f4c.jpg",
+    "file": "sources/177.webp",
+    "src": "sources/177.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "lau-nho"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 178,
+    "title": "Tiệm nướng Bò Tươi Than Hồng",
+    "type": "venue",
+    "originalFilename": "1791257845403_2224598161968234425_4716115710355835925_3b5e36afc3ae98a12c6c571423fc4254.jpg",
+    "file": "sources/178.webp",
+    "src": "sources/178.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-nuong-bo-tuoi-than-hong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 179,
+    "title": "Tiệm bánh Đoàn Tàu Ký Ức",
+    "type": "venue",
+    "originalFilename": "1791257845515_2224598161968234425_4716115710355835925_4a3ce2b11f892d48b3584017436ce144.jpg",
+    "file": "sources/179.webp",
+    "src": "sources/179.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-banh-doan-tau-ky-uc"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 180,
+    "title": "Cơm Nhà Thông",
+    "type": "venue",
+    "originalFilename": "1791257845617_2224598161968234425_4716115710355835925_45919f04950f7bfbadf27fabd7e817b2.jpg",
+    "file": "sources/180.webp",
+    "src": "sources/180.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "com-nha-thong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 181,
+    "title": "Cà phê Ngôi Nhà Lá Phong",
+    "type": "venue",
+    "originalFilename": "1791257845723_2224598161968234425_4716115710355835925_1ede9a35473f7b485057d133eb5b77d5.jpg",
+    "file": "sources/181.webp",
+    "src": "sources/181.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "ca-phe-ngoi-nha-la-phong"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 182,
+    "title": "Tiệm ăn Hoa Ven Rừng",
+    "type": "venue",
+    "originalFilename": "1791257845818_2224598161968234425_4716115710355835925_9d2ed2b8c25a52f3f852eeb634fb4951.jpg",
+    "file": "sources/182.webp",
+    "src": "sources/182.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "tiem-an-hoa-ven-rung"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 183,
+    "title": "Thị trấn Iyashi",
+    "type": "venue",
+    "originalFilename": "1791257845896_2224598161968234425_4716115710355835925_42d76c53945c05336e86d40a4ff811a0.jpg",
+    "file": "sources/183.webp",
+    "src": "sources/183.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "thi-tran-iyashi"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 184,
+    "title": "Bích Câu 1",
+    "type": "venue",
+    "originalFilename": "1791257846016_2224598161968234425_4716115710355835925_8e817843c57d46b2b00152d9142952ac.jpg",
+    "file": "sources/184.webp",
+    "src": "sources/184.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "bich-cau-1"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 185,
+    "title": "Quán trà sữa",
+    "type": "list",
+    "originalFilename": "1791257846091_2224598161968234425_4716115710355835925_b21389cf2cd2b227d255c6ed28e184b5.jpg",
+    "file": "sources/185.webp",
+    "src": "sources/185.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "shancha",
+      "the-dome-coffee-tea",
+      "ranh-rang-ca-phe",
+      "hong-tra-hoa-binh"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 186,
+    "title": "Quán ăn tối – món khác",
+    "type": "list",
+    "originalFilename": "1791257846190_2224598161968234425_4716115710355835925_38e5feab95d38897e5e2412dcffc1d0d.jpg",
+    "file": "sources/186.webp",
+    "src": "sources/186.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "mama-thai",
+      "bo-to-tay-ninh-68",
+      "bun-dau-tu-tooc",
+      "chisai-ramen"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 187,
+    "title": "Quán ăn vặt",
+    "type": "list",
+    "originalFilename": "1791257846290_2224598161968234425_4716115710355835925_f47a58cc3e79947924008112fe78cda5.jpg",
+    "file": "sources/187.webp",
+    "src": "sources/187.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "sua-nhe",
+      "the-umee",
+      "lau-xien-nhung-72",
+      "banh-trang-nuong-trang"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 188,
+    "title": "Quán lẩu",
+    "type": "list",
+    "originalFilename": "1791257846378_2224598161968234425_4716115710355835925_a5f7e940cb0ff0a6db57775126615bf0.jpg",
+    "file": "sources/188.webp",
+    "src": "sources/188.webp",
+    "description": "Ảnh tham khảo do người dùng cung cấp; thông tin trong ảnh chưa được xác minh độc lập.",
+    "placeIds": [
+      "lau-ga-ot-hiem-orin",
+      "quan-lau-bo-noi-dat-the-lab",
+      "lau-ga-la-e-2c",
+      "nha-ban-lau"
+    ],
+    "verificationStatus": "unverified"
+  }
+]

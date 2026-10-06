@@ -1,0 +1,131 @@
+[
+  {
+    "id": 46,
+    "title": "Gợi ý lịch trình theo thời tiết",
+    "type": "advice",
+    "originalFilename": "1791257708013_2224598161968234425_4716115710355835925_65f4be222fc61e0a3a46ef447185e077.jpg",
+    "file": "sources/046.webp",
+    "src": "sources/046.webp",
+    "description": "Gợi ý ảnh: ngày mưa ngồi cà phê, khi trời tạnh đi hồ, có thể ghé Cầu Đất và vườn hồng. Đây là ý tưởng lịch trình, không phải dự báo thời tiết hiện tại.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 51,
+    "title": "Thời tiết mùa thu Đà Lạt",
+    "type": "advice",
+    "originalFilename": "1791257740419_2224598161968234425_4716115710355835925_606d01ab1cf8b13297d884d1f9fb16cd.jpg",
+    "file": "sources/051.webp",
+    "src": "sources/051.webp",
+    "description": "Thông tin mùa thu/tháng 10 trong ảnh là kinh nghiệm tham khảo; hãy xem dự báo theo giờ mới nhất trước khi di chuyển.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 53,
+    "title": "Mùa hoa dã quỳ",
+    "type": "advice",
+    "originalFilename": "1791257740609_2224598161968234425_4716115710355835925_659db6f7fa969cde45d4b6ba594c134c.jpg",
+    "file": "sources/053.webp",
+    "src": "sources/053.webp",
+    "description": "Ảnh giới thiệu mùa hoa dã quỳ nhưng không xác định điểm có hoa hoặc thời gian nở thực tế.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 54,
+    "title": "Chọn khu vực lưu trú",
+    "type": "advice",
+    "originalFilename": "1791257740688_2224598161968234425_4716115710355835925_0a615baea50e80af21db5759235f33ac.jpg",
+    "file": "sources/054.webp",
+    "src": "sources/054.webp",
+    "description": "Ảnh gợi ý cân nhắc lưu trú gần trung tâm hoặc xa trung tâm tùy lịch trình.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 55,
+    "title": "Chọn phương tiện đi lại",
+    "type": "advice",
+    "originalFilename": "1791257740774_2224598161968234425_4716115710355835925_83fa10804951345cbb46a502a5120bdb.jpg",
+    "file": "sources/055.webp",
+    "src": "sources/055.webp",
+    "description": "Ảnh so sánh lựa chọn xe máy và ô tô; cần cân nhắc thời tiết, đường dốc và kinh nghiệm lái xe.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 56,
+    "title": "Cung đường mùa hồng",
+    "type": "advice",
+    "originalFilename": "1791257740857_2224598161968234425_4716115710355835925_01669e5afeb15ee047904add05ec6786.jpg",
+    "file": "sources/056.webp",
+    "src": "sources/056.webp",
+    "description": "Ảnh gợi ý cung đường Trại Mát – Xuân Trường – Cầu Đất – Trạm Hành vào mùa hồng; các vườn cụ thể cần hỏi trước.",
+    "placeIds": [
+      "cau-dat-farm",
+      "vuon-hong-xuan-truong-tram-hanh",
+      "trai-mat"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 58,
+    "title": "Gợi ý săn mây",
+    "type": "advice",
+    "originalFilename": "1791257741050_2224598161968234425_4716115710355835925_930ac796eed69139b288bce22e7daf06.jpg",
+    "file": "sources/058.webp",
+    "src": "sources/058.webp",
+    "description": "Kinh nghiệm săn mây trong ảnh không bảo đảm điều kiện thực tế; kiểm tra thời tiết và khả năng tiếp cận đường trước chuyến đi.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 59,
+    "title": "Gợi ý lịch trình 3 ngày",
+    "type": "advice",
+    "originalFilename": "1791257741127_2224598161968234425_4716115710355835925_c32bbe7c7989119947aa6303768b506f.jpg",
+    "file": "sources/059.webp",
+    "src": "sources/059.webp",
+    "description": "Gợi ý 3 ngày trong ảnh: trung tâm; hướng Trại Mát – Xuân Trường – Cầu Đất; hướng Hồ Tuyền Lâm – Datanla.",
+    "placeIds": [
+      "ho-tuyen-lam",
+      "cau-dat-farm",
+      "cho-da-lat"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 81,
+    "title": "Điểm chụp ảnh miễn phí",
+    "type": "advice",
+    "originalFilename": "1791257742957_2224598161968234425_4716115710355835925_ccf9f74989220d5d3ff1dd51db2a5bd4.jpg",
+    "file": "sources/081.webp",
+    "src": "sources/081.webp",
+    "description": "Một số mục trong ảnh có địa chỉ thiếu hoặc khả năng ghép nhầm. Rừng Thông Bản Áng được giữ trong tư liệu nhưng loại khỏi đề xuất ở Đà Lạt. Các giá/vé/phường trong ảnh chưa đối chiếu.",
+    "placeIds": [
+      "ga-da-lat",
+      "doi-thien-phuc-duc",
+      "cay-thong-co-don",
+      "cau-dat-farm",
+      "ho-xuan-huong",
+      "doc-nha-bo",
+      "duong-thong-hai-mo",
+      "rung-thong-ban-ang",
+      "vuon-hoa-cam-tu-cau-duong-ham-dat-set",
+      "hem-29-2"
+    ],
+    "verificationStatus": "unverified"
+  },
+  {
+    "id": 86,
+    "title": "Thuê xe – thông tin cần xác minh",
+    "type": "advice",
+    "originalFilename": "1791257743441_2224598161968234425_4716115710355835925_3441fa219141c2c39a42cbcfcdc84aca.jpg",
+    "file": "sources/086.webp",
+    "src": "sources/086.webp",
+    "description": "Ảnh dịch vụ thuê xe có số điện thoại mang dạng minh họa; không nhập số này như liên hệ đã xác minh.",
+    "placeIds": [],
+    "verificationStatus": "unverified"
+  }
+]

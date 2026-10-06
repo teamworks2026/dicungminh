@@ -1,0 +1,67 @@
+[
+  {
+    "placeId": "thac-datanla",
+    "url": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+    "title": "Dalattourist · Khu du lịch Datanla",
+    "checkedAt": "2026-10-06",
+    "findings": {
+      "officialAddress": "Quốc lộ 20, đèo Prenn, phường Xuân Hương - Đà Lạt",
+      "openingHours": "07:30-16:30",
+      "openingNote": "Giờ chung trên website chủ quản; giờ từng hoạt động có thể khác.",
+      "priceNote": "Vé tham quan: trẻ em 50.000đ, người lớn 80.000đ. Xe trượt và trò chơi có vé riêng."
+    },
+    "notes": "Thông tin nguồn website; chưa đối chiếu Place ID/GPS Google Maps."
+  },
+  {
+    "placeId": "nui-langbiang",
+    "url": "https://dalattourist.com.vn/diem-den/khu-du-lich-langbiang",
+    "title": "Dalattourist · Khu du lịch Langbiang",
+    "checkedAt": "2026-10-06",
+    "findings": {
+      "officialAddress": "305 Langbiang, phường Lang Biang - Đà Lạt",
+      "openingHours": "07:30-17:00",
+      "priceNote": "Vé tham quan trẻ em 25.000đ, người lớn 50.000đ; các dịch vụ khác chưa gồm trong vé."
+    },
+    "notes": "Núi Langbiang khác Langbiang Land; không gộp hai nơi."
+  },
+  {
+    "placeId": "zoodoo",
+    "url": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+    "title": "ZooDoo · Ghé thăm",
+    "checkedAt": "2026-10-06",
+    "findings": {
+      "officialAddress": "Quốc lộ 27C, tiểu khu 94A, Đạ Nhim, Lạc Dương, Lâm Đồng",
+      "phone": "0979110007",
+      "openingHours": "08:00-18:00",
+      "openingNote": "Tour đầu tiên 09:00; nên đặt trước 1–2 ngày. Giờ mở cửa không đồng nghĩa còn suất tour.",
+      "priceNote": "Vé thường: từ 120cm 150.000đ, 90–120cm 75.000đ, dưới 90cm miễn phí. Không gồm di chuyển, ăn uống."
+    },
+    "notes": "Hotline shuttle được website ghi riêng; không nhầm thành hotline vườn thú."
+  },
+  {
+    "placeId": "fresh-garden",
+    "url": "https://freshdalat.vn/dich-vu/fresh-garden/",
+    "title": "Fresh Đà Lạt · Fresh Garden",
+    "checkedAt": "2026-10-06",
+    "findings": {
+      "officialAddress": "90 Vạn Thành, Phường 5, Đà Lạt, Lâm Đồng",
+      "phone": "0908974949",
+      "openingHours": "07:30-17:30",
+      "priceNote": "Người lớn 150.000đ; người lớn + nước 180.000đ. Trẻ em 1,1–1,3m 90.000đ; + nước 120.000đ."
+    },
+    "notes": "Ảnh ghi 90B Vạn Thành; website Fresh ghi 90 Vạn Thành. Giữ cả hai nguồn, cần kiểm tra cổng trước khi tới."
+  },
+  {
+    "placeId": "cao-nguyen-hoa",
+    "url": "https://caonguyenhoadalat.com/vi",
+    "title": "Cao Nguyên Hoa · Thông tin tham quan",
+    "checkedAt": "2026-10-06",
+    "findings": {
+      "officialAddress": "Đèo Tà Nung, tiểu khu 158, Phường Cam Ly, Đà Lạt",
+      "openingHours": "07:00-17:30",
+      "openingNote": "Ngừng bán vé lúc 16:30 theo website.",
+      "priceNote": "Vé tham quan người lớn 150.000đ; combo tham quan + xe trượt nội địa 250.000đ."
+    },
+    "notes": "Website có nội dung thay đổi; đối chiếu trực tiếp khi đặt vé. Không suy ra GPS từ bản đồ minh họa."
+  }
+]
