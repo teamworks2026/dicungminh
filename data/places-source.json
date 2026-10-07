@@ -2309,7 +2309,60 @@
     "officialAddress": "90 Vạn Thành, Phường 5, Đà Lạt, Lâm Đồng",
     "phone": "0908974949",
     "openingHours": "07:30-17:30",
-    "website": "https://freshdalat.vn/dich-vu/fresh-garden/"
+    "website": "https://freshdalat.vn/dich-vu/fresh-garden/",
+    "priceQuotes": [
+      {
+        "id": "seed-price-fresh-garden-admission-adult",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 150000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "sourceUrl": "https://freshdalat.vn/dich-vu/fresh-garden/",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-fresh-garden-admission-child",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 90000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em 1,1–1,3 m",
+        "sourceUrl": "https://freshdalat.vn/dich-vu/fresh-garden/",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-fresh-garden-admission-drink-adult",
+        "name": "Vé tham quan + nước",
+        "kind": "ticket",
+        "priceMin": 180000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "conditions": "Gồm vé và nước; bảng giá chưa ghi loại hoặc dung tích đồ uống.",
+        "sourceUrl": "https://freshdalat.vn/dich-vu/fresh-garden/",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-fresh-garden-admission-drink-child",
+        "name": "Vé tham quan + nước",
+        "kind": "ticket",
+        "priceMin": 120000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em",
+        "conditions": "Gồm vé và nước; bảng giá chưa ghi loại hoặc dung tích đồ uống.",
+        "sourceUrl": "https://freshdalat.vn/dich-vu/fresh-garden/",
+        "notes": "Nhóm trẻ em vé thường ghi 1,1–1,3 m; dòng combo không nhắc lại ngưỡng chiều cao.",
+        "recordedAt": "2026-10-07"
+      }
+    ]
   },
   {
     "id": "nui-langbiang",
@@ -2387,7 +2440,49 @@
     "referenceOnly": true,
     "officialAddress": "305 Langbiang, phường Lang Biang - Đà Lạt",
     "openingHours": "07:30-17:00",
-    "website": "https://dalattourist.com.vn/diem-den/khu-du-lich-langbiang"
+    "website": "https://dalattourist.com.vn/diem-den/khu-du-lich-langbiang",
+    "priceQuotes": [
+      {
+        "id": "seed-price-nui-langbiang-admission-adult",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 50000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-langbiang",
+        "notes": "Website chưa nêu ngưỡng phân loại trẻ em.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-nui-langbiang-admission-child",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 25000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-langbiang",
+        "notes": "Website chưa nêu ngưỡng phân loại trẻ em.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-nui-langbiang-radar-shared-vehicle",
+        "name": "Xe lên đỉnh Radar",
+        "kind": "other",
+        "priceMin": 120000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Ghép khách",
+        "conditions": "Xe xuất phát khi ghép đủ 6 khách.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-langbiang",
+        "notes": "Website có lựa chọn bao trọn xe nhưng chưa ghi giá; không suy ra giá bao xe.",
+        "recordedAt": "2026-10-07"
+      }
+    ]
   },
   {
     "id": "vuon-anh-sang",
@@ -3614,7 +3709,73 @@
     "referenceOnly": true,
     "officialAddress": "Đèo Tà Nung, tiểu khu 158, Phường Cam Ly, Đà Lạt",
     "openingHours": "07:00-17:30",
-    "website": "https://caonguyenhoadalat.com/vi"
+    "website": "https://caonguyenhoadalat.com/vi",
+    "priceQuotes": [
+      {
+        "id": "seed-price-cao-nguyen-hoa-admission-adult",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 150000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "sourceUrl": "https://caonguyenhoadalat.com/vi",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-cao-nguyen-hoa-admission-child-height-1-1-2m",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 70000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em 1–1,2 m",
+        "sourceUrl": "https://caonguyenhoadalat.com/vi",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-cao-nguyen-hoa-admission-child-height-under-1m",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 0,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em dưới 1 m",
+        "sourceUrl": "https://caonguyenhoadalat.com/vi",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-cao-nguyen-hoa-admission-coaster-domestic",
+        "name": "Vé tham quan + xe trượt",
+        "kind": "ticket",
+        "priceMin": 250000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Khách nội địa",
+        "conditions": "Vé vào cổng kèm lượt xe trượt.",
+        "sourceUrl": "https://caonguyenhoadalat.com/vi",
+        "notes": "Website không ghi gồm zipline; ảnh #41 ghi combo 250.000đ có zipline. Hai gói chưa được xác nhận tương đương.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-cao-nguyen-hoa-admission-coaster-foreign",
+        "name": "Vé tham quan + xe trượt",
+        "kind": "ticket",
+        "priceMin": 300000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Khách nước ngoài",
+        "conditions": "Vé vào cổng kèm lượt xe trượt.",
+        "sourceUrl": "https://caonguyenhoadalat.com/vi",
+        "notes": "Website không ghi gồm zipline; ảnh #41 ghi combo 250.000đ có zipline. Hai gói chưa được xác nhận tương đương.",
+        "recordedAt": "2026-10-07"
+      }
+    ]
   },
   {
     "id": "zoodoo",
@@ -3686,7 +3847,115 @@
     "officialAddress": "Quốc lộ 27C, tiểu khu 94A, Đạ Nhim, Lạc Dương, Lâm Đồng",
     "phone": "0979110007",
     "openingHours": "08:00-18:00",
-    "website": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo"
+    "website": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+    "priceQuotes": [
+      {
+        "id": "seed-price-zoodoo-admission-height-120-plus",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 150000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Từ 120 cm",
+        "conditions": "Vé thường; chưa gồm di chuyển, ăn uống.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-admission-height-90-120",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 75000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "90–120 cm theo website",
+        "conditions": "Vé thường; cần người lớn đi cùng; chưa gồm di chuyển, ăn uống.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "notes": "Website ghi cả nhóm từ 120 cm và nhóm 90–120 cm; cần xác nhận tại đúng mốc 120 cm.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-admission-height-under-90",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 0,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Dưới 90 cm",
+        "conditions": "Vé thường; cần người lớn đi cùng.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-vip-height-120-plus",
+        "name": "VIP Tour",
+        "kind": "ticket",
+        "priceMin": 799000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Từ 120 cm",
+        "conditions": "Nhóm 6–15 khách; hướng dẫn viên riêng và gói quà.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-vip-height-under-120",
+        "name": "VIP Tour",
+        "kind": "ticket",
+        "priceMin": 0,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Dưới 120 cm",
+        "conditions": "Nhóm 6–15 khách; mỗi người lớn tối đa 2 trẻ nhỏ.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-shuttle-one-way-height-120-plus",
+        "name": "Shuttle Bus ZooDoo",
+        "kind": "other",
+        "priceMin": 50000,
+        "unit": "ride",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Từ 120 cm",
+        "conditions": "Một chiều cho một khách; Go! Đà Lạt ↔ ZooDoo; đặt chỗ trước.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-shuttle-one-way-height-90-120",
+        "name": "Shuttle Bus ZooDoo",
+        "kind": "other",
+        "priceMin": 25000,
+        "unit": "ride",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "90–120 cm theo website",
+        "conditions": "Một chiều cho một khách; Go! Đà Lạt ↔ ZooDoo; đặt chỗ trước.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "notes": "Cần xác nhận nhóm giá tại đúng mốc 120 cm.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-zoodoo-shuttle-one-way-height-under-90",
+        "name": "Shuttle Bus ZooDoo",
+        "kind": "other",
+        "priceMin": 0,
+        "unit": "ride",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Dưới 90 cm",
+        "conditions": "Một chiều cho một khách; Go! Đà Lạt ↔ ZooDoo; đặt chỗ trước.",
+        "sourceUrl": "https://www.zoodoo.vn/vi/ghe-tham-zoodoo",
+        "recordedAt": "2026-10-07"
+      }
+    ]
   },
   {
     "id": "langbiang-land",
@@ -3975,7 +4244,115 @@
     "referenceOnly": true,
     "officialAddress": "Quốc lộ 20, đèo Prenn, phường Xuân Hương - Đà Lạt",
     "openingHours": "07:30-16:30",
-    "website": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla"
+    "website": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+    "priceQuotes": [
+      {
+        "id": "seed-price-thac-datanla-admission-adult",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 80000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "conditions": "Khu vực thác 1; đi bộ xuống thác; xe trượt mua riêng.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "notes": "Website chưa nêu ngưỡng phân loại trẻ em ở mục vé tham quan.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-admission-child",
+        "name": "Vé tham quan",
+        "kind": "ticket",
+        "priceMin": 50000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em",
+        "conditions": "Khu vực thác 1; đi bộ xuống thác; xe trượt mua riêng.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "notes": "Website chưa nêu ngưỡng phân loại trẻ em ở mục vé tham quan.",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-coaster-1-adult",
+        "name": "Xe trượt thác 1",
+        "kind": "game",
+        "priceMin": 130000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "conditions": "Chưa gồm vé tham quan. Cao từ 90 cm; tối đa 2 khách/xe, 120 kg/xe.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-coaster-1-child",
+        "name": "Xe trượt thác 1",
+        "kind": "game",
+        "priceMin": 90000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em",
+        "conditions": "Chưa gồm vé tham quan. Cao từ 90 cm; tối đa 2 khách/xe, 120 kg/xe.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-coaster-3-adult",
+        "name": "Xe trượt thác 3",
+        "kind": "game",
+        "priceMin": 250000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Người lớn",
+        "conditions": "Đã gồm vé tham quan. Cao từ 90 cm; tối đa 2 khách/xe, 120 kg/xe.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-coaster-3-child",
+        "name": "Xe trượt thác 3",
+        "kind": "game",
+        "priceMin": 150000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Trẻ em",
+        "conditions": "Đã gồm vé tham quan. Cao từ 90 cm; tối đa 2 khách/xe, 120 kg/xe.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-high-rope-standard",
+        "name": "Hành trình trên cao",
+        "kind": "game",
+        "priceMin": 360000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "variant": "Giá thường",
+        "conditions": "Cao từ 1,4 m; cân nặng tối đa 125 kg.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "recordedAt": "2026-10-07"
+      },
+      {
+        "id": "seed-price-thac-datanla-zipline-1500m",
+        "name": "Zipline 1500 m",
+        "kind": "game",
+        "priceMin": 1000000,
+        "unit": "person",
+        "quantity": 1,
+        "sourceType": "website",
+        "conditions": "Cao tối thiểu 120 cm; cân nặng 40–120 kg.",
+        "sourceUrl": "https://dalattourist.com.vn/diem-den/khu-du-lich-datanla",
+        "recordedAt": "2026-10-07",
+        "notes": "Gồm 2 chặng zipline tổng 1.500 m, tham quan thác 3 và xe trượt trở về. Dịch vụ quay video mua riêng."
+      }
+    ]
   },
   {
     "id": "lung-chung",
@@ -4888,7 +5265,23 @@
       }
     ],
     "coverImage": "sources/016.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-banh-trang-nuong-di-dinh-banh-trang-nuong-image85",
+        "name": "Bánh tráng nướng",
+        "kind": "food",
+        "priceMin": 25000,
+        "unit": "other",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 35000,
+        "unitLabel": "cái",
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "lang-cu-lan",
@@ -5277,7 +5670,57 @@
     "coverImage": "sources/073.webp",
     "referenceOnly": true,
     "priceMin": 35000,
-    "priceMax": 65000
+    "priceMax": 65000,
+    "priceQuotes": [
+      {
+        "id": "seed-price-pho-an-da-lat-pho-bo-small-bowl",
+        "name": "Phở bò",
+        "kind": "food",
+        "priceMin": 35000,
+        "unit": "bowl",
+        "quantity": 1,
+        "sourceType": "image",
+        "variant": "Tô nhỏ",
+        "sourceImage": 73,
+        "notes": "Giá tham khảo trong ảnh; chưa biết ngày áp dụng."
+      },
+      {
+        "id": "seed-price-pho-an-da-lat-pho-bo-tai",
+        "name": "Phở bò",
+        "kind": "food",
+        "priceMin": 40000,
+        "unit": "bowl",
+        "quantity": 1,
+        "sourceType": "image",
+        "variant": "Tái",
+        "sourceImage": 73,
+        "notes": "Giá tham khảo trong ảnh; chưa biết ngày áp dụng. Tái thuộc dòng Tái/Nạm/Gầu/Gân/Viên đồng giá 40.000đ."
+      },
+      {
+        "id": "seed-price-pho-an-da-lat-pho-bo-mixed",
+        "name": "Phở bò",
+        "kind": "food",
+        "priceMin": 50000,
+        "unit": "bowl",
+        "quantity": 1,
+        "sourceType": "image",
+        "variant": "Thập cẩm",
+        "sourceImage": 73,
+        "notes": "Giá tham khảo trong ảnh; chưa biết ngày áp dụng."
+      },
+      {
+        "id": "seed-price-pho-an-da-lat-pho-bo-special-egg",
+        "name": "Phở bò",
+        "kind": "food",
+        "priceMin": 65000,
+        "unit": "bowl",
+        "quantity": 1,
+        "sourceType": "image",
+        "variant": "Đặc biệt + trứng",
+        "sourceImage": 73,
+        "notes": "Giá tham khảo trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "banh-can-le",
@@ -5416,7 +5859,22 @@
       }
     ],
     "coverImage": "sources/073.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-banh-can-le-banh-can-image85",
+        "name": "Bánh căn",
+        "kind": "food",
+        "priceMin": 25000,
+        "unit": "portion",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 35000,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "banh-can-co-lanh",
@@ -8081,7 +8539,22 @@
       }
     ],
     "coverImage": "sources/080.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-lau-ga-la-e-tao-ngo-lau-ga-la-e-image85",
+        "name": "Lẩu gà lá é",
+        "kind": "food",
+        "priceMin": 200000,
+        "unit": "pot",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 250000,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "quan-go-lau-bo-ba-toa",
@@ -8187,7 +8660,22 @@
       }
     ],
     "coverImage": "sources/080.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-quan-go-lau-bo-ba-toa-lau-bo-image85",
+        "name": "Lẩu bò",
+        "kind": "food",
+        "priceMin": 150000,
+        "unit": "pot",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 250000,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "lo-ghim-grill-chill",
@@ -8948,7 +9436,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-banh-uot-long-ga-long-banh-uot-image87",
+        "name": "Bánh ướt lòng gà",
+        "kind": "food",
+        "priceMin": 35000,
+        "priceMax": 50000,
+        "unit": "portion",
+        "quantity": 1,
+        "sourceType": "image",
+        "sourceImage": 87,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "bun-bo-ba-hoi",
@@ -9120,7 +9623,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-banh-mi-xiu-mai-hoang-dieu-xiu-mai-image87",
+        "name": "Bánh mì xíu mại",
+        "kind": "food",
+        "priceMin": 30000,
+        "priceMax": 40000,
+        "unit": "portion",
+        "quantity": 1,
+        "sourceType": "image",
+        "sourceImage": 87,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "mi-quang-bep-trang",
@@ -9180,7 +9698,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-mi-quang-bep-trang-mi-quang-image85",
+        "name": "Mì Quảng",
+        "kind": "food",
+        "priceMin": 30000,
+        "unit": "bowl",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 40000,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "com-nieu-nhu-ngoc",
@@ -9325,7 +9858,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-bun-bo-di-huong-bun-bo-image85",
+        "name": "Bún bò",
+        "kind": "food",
+        "priceMin": 35000,
+        "unit": "bowl",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 45000,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng. Ảnh ghi Bún bò Bà Hội và Dì Hương cùng địa chỉ; chưa xác định hai cơ sở độc lập."
+      }
+    ]
   },
   {
     "id": "com-ga-xoi-mo-aha",
@@ -9378,7 +9926,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-com-ga-xoi-mo-aha-com-ga-image85",
+        "name": "Cơm gà xối mỡ",
+        "kind": "food",
+        "priceMin": 40000,
+        "priceMax": 55000,
+        "unit": "portion",
+        "quantity": 1,
+        "sourceType": "image",
+        "sourceImage": 85,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "nuong-ngoi-bbq",
@@ -9491,7 +10054,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-che-hem-che-image87",
+        "name": "Chè",
+        "kind": "food",
+        "priceMin": 10000,
+        "priceMax": 20000,
+        "unit": "cup",
+        "quantity": 1,
+        "sourceType": "image",
+        "sourceImage": 87,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "sua-dau-nanh-64-tang-bat-ho",
@@ -9564,7 +10142,22 @@
       }
     ],
     "coverImage": "sources/085.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-sua-dau-nanh-64-tang-bat-ho-hot-soy-milk-image85",
+        "name": "Sữa đậu nành nóng",
+        "kind": "food",
+        "priceMin": 10000,
+        "unit": "cup",
+        "quantity": 1,
+        "sourceType": "image",
+        "priceMax": 15000,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "sourceImage": 85,
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "nem-nuong-ba-hung",
@@ -9617,7 +10210,22 @@
       }
     ],
     "coverImage": "sources/087.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-nem-nuong-ba-hung-nem-nuong-image87",
+        "name": "Nem nướng",
+        "kind": "food",
+        "priceMin": 45000,
+        "priceMax": 60000,
+        "unit": "portion",
+        "quantity": 1,
+        "sourceType": "image",
+        "sourceImage": 87,
+        "conditions": "Chưa rõ cỡ phần và biến thể.",
+        "notes": "Khoảng giá món trong ảnh; chưa biết ngày áp dụng."
+      }
+    ]
   },
   {
     "id": "le-bleu-homestay",
@@ -12591,7 +13199,48 @@
       }
     ],
     "coverImage": "sources/100.webp",
-    "referenceOnly": true
+    "referenceOnly": true,
+    "priceQuotes": [
+      {
+        "id": "seed-price-banh-bong-lan-trung-muoi-kimi-egg-cake-cheese",
+        "name": "Bánh trứng nướng Kimi",
+        "kind": "food",
+        "priceMin": 18000,
+        "unit": "other",
+        "quantity": 1,
+        "sourceType": "image",
+        "unitLabel": "bánh",
+        "variant": "Phô mai",
+        "sourceImage": 106,
+        "notes": "Menu trong ảnh; địa chỉ ảnh có cả 160 Nguyễn Công Trứ và 21 Nguyễn Văn Trỗi; chưa rõ cơ sở áp dụng."
+      },
+      {
+        "id": "seed-price-banh-bong-lan-trung-muoi-kimi-cake-cheese-stretch",
+        "name": "Bánh đặc biệt Kimi",
+        "kind": "food",
+        "priceMin": 25000,
+        "unit": "other",
+        "quantity": 1,
+        "sourceType": "image",
+        "unitLabel": "bánh",
+        "variant": "Phô mai đặc biệt kéo sợi",
+        "sourceImage": 106,
+        "notes": "Menu trong ảnh; chưa rõ ngày và cơ sở áp dụng."
+      },
+      {
+        "id": "seed-price-banh-bong-lan-trung-muoi-kimi-fresh-milk-small-bottle",
+        "name": "Sữa bò tươi",
+        "kind": "food",
+        "priceMin": 25000,
+        "unit": "other",
+        "quantity": 1,
+        "sourceType": "image",
+        "unitLabel": "chai",
+        "variant": "Chai nhỏ",
+        "sourceImage": 106,
+        "notes": "Menu không ghi dung tích hay hương vị chai; không đổi sang giá mỗi ly."
+      }
+    ]
   },
   {
     "id": "xoi-xeo-co-ba",
